@@ -2700,3 +2700,130 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.04.28-05.52.11:267][449]SourceControl: Commited [main 8958bae] Update de Plataformas.
 [2021.04.28-05.52.11:313][450]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
 [2021.04.28-05.52.11:314][450]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.04.28-05.55.10:003][ 71]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.04.28-05.55.10:031][ 71]LogContentBrowser: Creating deferred item: NewFolder
+[2021.04.28-05.55.14:956][327]LogContentBrowser: Attempting asset rename: NewFolder -> Cafeteria
+[2021.04.28-05.55.14:957][327]LogContentBrowser: End creating deferred item NewFolder
+[2021.04.28-05.55.26:492][464]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/Luis/Desktop/EV01/CafeteriaToUnreal/TestSize.fbx)
+[2021.04.28-05.55.26:503][464]LogFbx: Loading FBX Scene from C:/Users/Luis/Desktop/EV01/CafeteriaToUnreal/TestSize.fbx
+[2021.04.28-05.55.26:509][464]LogFbx: FBX Scene Loaded Succesfully
+[2021.04.28-05.55.28:028][464]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.04.28-05.55.28:041][464]LogFbx: Display: Triangulating static mesh Cube
+[2021.04.28-05.55.28:042][464]LogStaticMesh: Building static mesh TestSize...
+[2021.04.28-05.55.28:043][464]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/Cafeteria/TestSize.TestSize
+[2021.04.28-05.55.28:053][464]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.04.28-05.55.29:758][544]LogSlate: Window 'Message Log' being destroyed
+[2021.04.28-05.55.29:796][544]LogSlate: Window 'Message Log' being destroyed
+[2021.04.28-05.55.34:542][777]LogActorFactory: Actor Factory created TestSize
+[2021.04.28-05.55.35:963][835]LogActorFactory: Actor Factory created TestSize
+[2021.04.28-05.56.11:236][510]Cmd: DELETE
+[2021.04.28-05.56.11:236][510]Cmd: ACTOR DELETE
+[2021.04.28-05.56.11:289][510]LogEditorActor: Deleted Actor: Brush
+[2021.04.28-05.56.11:321][510]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2021.04.28-05.56.11:502][510]LogEditorActor: Deleted 1 Actors (0.266 secs)
+[2021.04.28-05.56.15:192][742]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TestSize)
+[2021.04.28-05.56.20:144][ 54]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TestSize)
+[2021.04.28-05.56.38:701][230]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.28-05.56.38:709][230]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.28-05.56.38:709][230]PIE: New page: PIE session: ThirdPersonExampleMap (Apr 27, 2021, 7:56:38 PM)
+[2021.04.28-05.56.38:759][230]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.04.28-05.56.38:961][230]LogPlayLevel: PIE: StaticDuplicateObject took: (0.201889s)
+[2021.04.28-05.56.38:962][230]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.04.28-05.56.38:963][230]LogPlayLevel: PIE: World Init took: (0.002075s)
+[2021.04.28-05.56.38:963][230]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.204402s)
+[2021.04.28-05.56.38:995][230]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2021.04.28-05.56.38:998][230]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2021.04.28-05.56.38:998][230]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.28-05.56.38:998][230]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.28-05.56.38:998][230]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.28-05.56.38:998][230]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.28-05.56.38:998][230]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.28-05.56.38:998][230]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.28-05.56.38:998][230]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.28-05.56.38:998][230]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.28-05.56.38:999][230]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.28-05.56.38:999][230]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.28-05.56.39:003][230]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.28-05.56.39:003][230]LogAudioMixer: Display: 1: FrontRight
+[2021.04.28-05.56.39:016][230]LogAudioMixer: Display: Using Audio Device Altavoces (High Definition Audio Device)
+[2021.04.28-05.56.39:016][230]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.28-05.56.39:016][230]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.28-05.56.39:016][230]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.28-05.56.39:016][230]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.28-05.56.39:017][230]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.28-05.56.39:017][230]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.28-05.56.39:040][230]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.28-05.56.39:040][230]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.28-05.56.39:040][230]LogInit: FAudioDevice initialized.
+[2021.04.28-05.56.39:040][230]LogAudio: Display: Audio Device (ID: 12) registered with world 'ThirdPersonExampleMap'.
+[2021.04.28-05.56.39:054][230]LogLoad: Game class is 'GameModeBase'
+[2021.04.28-05.56.39:101][230]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.04.28-00.56.39
+[2021.04.28-05.56.39:102][230]LogWorld: Bringing up level for play took: 0.047518
+[2021.04.28-05.56.39:102][230]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2021.04.28-05.56.39:107][230]PIE: Server logged in
+[2021.04.28-05.56.39:108][230]PIE: Play in editor total start time 0.4 seconds.
+[2021.04.28-05.56.40:162][282]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Reloading
+[2021.04.28-05.56.41:154][344]LogBlueprintUserMessages: [Weapon_BP_C_0] Reloaded
+[2021.04.28-05.56.55:070][212]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-05.56.55:070][212]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.04.28-05.56.55:071][212]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-05.56.55:078][212]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-05.56.55:087][212]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.28-05.56.55:111][212]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-05.56.55:137][212]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-05.56.55:137][212]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.28-05.56.55:139][212]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.28-05.56.55:178][212]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2021.04.28-05.56.55:216][213]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2021.04.28-05.59.28:038][756]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2021.04.28-05.59.28:808][756]LogSavePackage: Moving '../../../../../Unreal Projects/SpaceWar/Saved/ThirdPersonExampleMap_Auto5B994268F48DFB5B6B1621A8037F8DF3F.tmp' to '../../../../../Unreal Projects/SpaceWar/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.umap'
+[2021.04.28-05.59.28:811][756]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.799
+[2021.04.28-05.59.28:811][756]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.799
+[2021.04.28-05.59.28:812][756]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Meshes/Cafeteria/TestSize] ([1] browsable assets)...
+[2021.04.28-05.59.28:841][756]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Geometry/Meshes/Cafeteria/TestSize.TestSize]
+[2021.04.28-05.59.28:841][756]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Meshes/Cafeteria/TestSize]
+[2021.04.28-05.59.28:849][756]LogSavePackage: Moving '../../../../../Unreal Projects/SpaceWar/Saved/TestSize_Auto5C98F105E4753172F9C615382924892CA.tmp' to '../../../../../Unreal Projects/SpaceWar/Saved/Autosaves/Game/Geometry/Meshes/Cafeteria/TestSize_Auto5.uasset'
+[2021.04.28-05.59.28:850][756]LogFileHelpers: Auto-saving content packages took 0.038
+[2021.04.28-06.13.48:043][846]LogEditorFactories: Performing atomic reimport of [C:/Users/Luis/Desktop/EV01/CafeteriaToUnreal/TestSize.fbx]
+[2021.04.28-06.13.48:072][846]LogFbx: Loading FBX Scene from C:/Users/Luis/Desktop/EV01/CafeteriaToUnreal/TestSize.fbx
+[2021.04.28-06.13.48:078][846]LogFbx: FBX Scene Loaded Succesfully
+[2021.04.28-06.13.48:107][846]LogFbx: Display: Triangulating static mesh Cube
+[2021.04.28-06.13.48:140][846]LogStaticMesh: Building static mesh TestSize...
+[2021.04.28-06.13.48:145][846]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/Cafeteria/TestSize.TestSize
+[2021.04.28-06.13.48:145][846]LogStaticMesh: Warning: TestSize has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.04.28-06.13.48:146][846]LogStaticMesh: Warning: TestSize has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.04.28-06.13.48:157][846]LogEditorFactories: -- imported successfully
+[2021.04.28-06.13.48:160][846]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.04.28-06.13.48:160][846]FBXImport: Warning: TestSize has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.04.28-06.13.48:160][846]FBXImport: Warning: TestSize has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.04.28-06.14.36:423][298]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2021.04.28-06.14.37:201][298]LogSavePackage: Moving '../../../../../Unreal Projects/SpaceWar/Saved/ThirdPersonExampleMap_Auto60ADE5F884B1DD38B5C32659609603644.tmp' to '../../../../../Unreal Projects/SpaceWar/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto6.umap'
+[2021.04.28-06.14.37:243][298]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.846
+[2021.04.28-06.14.37:243][298]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.846
+[2021.04.28-06.14.37:244][298]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Meshes/Cafeteria/TestSize] ([1] browsable assets)...
+[2021.04.28-06.14.37:281][298]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Geometry/Meshes/Cafeteria/TestSize.TestSize]
+[2021.04.28-06.14.37:281][298]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Meshes/Cafeteria/TestSize]
+[2021.04.28-06.14.37:289][298]LogSavePackage: Moving '../../../../../Unreal Projects/SpaceWar/Saved/TestSize_Auto638A6271246E16653B8E276BCBCBD87D4.tmp' to '../../../../../Unreal Projects/SpaceWar/Saved/Autosaves/Game/Geometry/Meshes/Cafeteria/TestSize_Auto6.uasset'
+[2021.04.28-06.14.37:290][298]LogFileHelpers: Auto-saving content packages took 0.047
+[2021.04.28-06.20.10:750][549]SourceControl: fatal: E:/UnrealEngine/UE_4.26/Engine/Content: 'E:/UnrealEngine/UE_4.26/Engine/Content' is outside repository at 'E:/Unreal Projects/SpaceWar'
+[2021.04.28-06.20.10:750][549]SourceControl: fatal: E:/UnrealEngine/UE_4.26/Engine/Plugins/2D/Paper2D/Content: 'E:/UnrealEngine/UE_4.26/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'E:/Unreal Projects/SpaceWar'
+[2021.04.28-06.20.10:750][549]SourceControl: fatal: E:/UnrealEngine/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content: 'E:/UnrealEngine/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'E:/Unreal Projects/SpaceWar'
+[2021.04.28-06.20.10:751][549]SourceControl: fatal: E:/UnrealEngine/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content: 'E:/UnrealEngine/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'E:/Unreal Projects/SpaceWar'
+[2021.04.28-06.20.10:751][549]SourceControl: fatal: E:/UnrealEngine/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'E:/UnrealEngine/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'E:/Unreal Projects/SpaceWar'
+[2021.04.28-06.20.10:751][549]SourceControl: fatal: E:/UnrealEngine/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content: 'E:/UnrealEngine/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'E:/Unreal Projects/SpaceWar'
+[2021.04.28-06.20.10:751][549]SourceControl: fatal: E:/UnrealEngine/UE_4.26/Engine/Plugins/FX/Niagara/Content: 'E:/UnrealEngine/UE_4.26/Engine/Plugins/FX/Niagara/Content' is outside repository at 'E:/Unreal Projects/SpaceWar'
+[2021.04.28-06.20.10:751][549]SourceControl: fatal: E:/UnrealEngine/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'E:/UnrealEngine/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'E:/Unreal Projects/SpaceWar'
+[2021.04.28-06.20.10:751][549]SourceControl: fatal: E:/UnrealEngine/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content: 'E:/UnrealEngine/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'E:/Unreal Projects/SpaceWar'
+[2021.04.28-06.20.10:751][549]SourceControl: fatal: E:/UnrealEngine/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'E:/UnrealEngine/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'E:/Unreal Projects/SpaceWar'
+[2021.04.28-06.20.10:751][549]SourceControl: fatal: E:/UnrealEngine/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content: 'E:/UnrealEngine/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'E:/Unreal Projects/SpaceWar'
+[2021.04.28-06.20.10:751][549]SourceControl: fatal: E:/UnrealEngine/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'E:/UnrealEngine/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'E:/Unreal Projects/SpaceWar'
+[2021.04.28-06.20.10:751][549]SourceControl: fatal: E:/UnrealEngine/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content: 'E:/UnrealEngine/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'E:/Unreal Projects/SpaceWar'
+[2021.04.28-06.20.10:751][549]SourceControl: fatal: E:/UnrealEngine/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content: 'E:/UnrealEngine/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'E:/Unreal Projects/SpaceWar'
+[2021.04.28-06.20.10:751][549]SourceControl: fatal: E:/UnrealEngine/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'E:/UnrealEngine/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'E:/Unreal Projects/SpaceWar'
+[2021.04.28-06.20.10:751][549]SourceControl: fatal: E:/UnrealEngine/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content: 'E:/UnrealEngine/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'E:/Unreal Projects/SpaceWar'
+[2021.04.28-06.20.10:751][549]SourceControl: fatal: E:/UnrealEngine/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'E:/UnrealEngine/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'E:/Unreal Projects/SpaceWar'
+[2021.04.28-06.20.10:751][549]SourceControl: fatal: E:/UnrealEngine/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content: 'E:/UnrealEngine/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'E:/Unreal Projects/SpaceWar'
+[2021.04.28-06.20.10:751][549]SourceControl: fatal: E:/UnrealEngine/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content: 'E:/UnrealEngine/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'E:/Unreal Projects/SpaceWar'
+[2021.04.28-06.20.10:751][549]SourceControl: fatal: E:/UnrealEngine/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'E:/UnrealEngine/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'E:/Unreal Projects/SpaceWar'
+[2021.04.28-06.20.10:751][549]SourceControl: fatal: E:/UnrealEngine/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'E:/UnrealEngine/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'E:/Unreal Projects/SpaceWar'
+[2021.04.28-06.20.11:030][549]EditorErrors: Warning: No assets to check in!
