@@ -4553,3 +4553,881 @@ An asset already exists at the import location: /Game/Geometry/Meshes/Cafeteria/
 [2021.04.28-19.11.43:929][732]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
 [2021.04.28-19.11.43:929][732]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
 [2021.04.28-19.11.44:501][746]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2021.04.28-19.14.08:168][219]LightingResults: Warning: GobiernoPalacio_VentanasTer_Cylinder_011 Object has overlapping UVs.
+[2021.04.28-19.14.08:168][219]LightingResults: GobiernoPalacio_VentanasTer_Cylinder_011 Lightmap UV are overlapping by 74.8%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-19.14.12:926][233]LightingResults: Warning: GobiernoPalacio_Techo_Plane_005 Object has overlapping UVs.
+[2021.04.28-19.14.12:926][233]LightingResults: GobiernoPalacio_Techo_Plane_005 Lightmap UV are overlapping by 8.6%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-19.14.54:039][466]LightingResults: Warning: CampanaCruz_Plane_007 Object has overlapping UVs.
+[2021.04.28-19.14.54:039][466]LightingResults: CampanaCruz_Plane_007 Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-19.15.05:537][499]LightingResults: Warning: CampanaCruz_Plane_006 Object has overlapping UVs.
+[2021.04.28-19.15.05:537][499]LightingResults: CampanaCruz_Plane_006 Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-19.15.15:533][527]LightingResults: Warning: CampanaCruz_Plane_007 Object has overlapping UVs.
+[2021.04.28-19.15.15:533][527]LightingResults: CampanaCruz_Plane_007 Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-19.15.43:774][607]LightingResults: Warning: BarricadaInBetRight Object has overlapping UVs.
+[2021.04.28-19.15.43:775][607]LightingResults: BarricadaInBetRight Lightmap UV are overlapping by 2.4%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-19.15.44:511][609]LightingResults: Warning: CampanaCruz_Plane_006 Object has overlapping UVs.
+[2021.04.28-19.15.44:511][609]LightingResults: CampanaCruz_Plane_006 Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-19.16.24:609][725]LightingResults: Warning: BarricadaInBetLeft Object has overlapping UVs.
+[2021.04.28-19.16.24:610][725]LightingResults: BarricadaInBetLeft Lightmap UV are overlapping by 2.4%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-19.16.24:947][726]LightingResults: Warning: BarricadaInBetLeft Object has overlapping UVs.
+[2021.04.28-19.16.24:947][726]LightingResults: BarricadaInBetLeft Lightmap UV are overlapping by 2.4%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-19.16.25:313][727]LightingResults: Warning: BarricadaInBetLeft Object has overlapping UVs.
+[2021.04.28-19.16.25:313][727]LightingResults: BarricadaInBetLeft Lightmap UV are overlapping by 2.4%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-19.16.25:632][728]LightingResults: Warning: BarricadaInBetLeft Object has overlapping UVs.
+[2021.04.28-19.16.25:632][728]LightingResults: BarricadaInBetLeft Lightmap UV are overlapping by 2.4%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-19.16.25:979][729]LightingResults: Warning: BarricadaInBetLeft Object has overlapping UVs.
+[2021.04.28-19.16.25:979][729]LightingResults: BarricadaInBetLeft Lightmap UV are overlapping by 2.4%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-19.16.26:350][730]LightingResults: Warning: BarricadaInBetLeft Object has overlapping UVs.
+[2021.04.28-19.16.26:350][730]LightingResults: BarricadaInBetLeft Lightmap UV are overlapping by 2.4%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-19.16.27:016][732]LightingResults: Warning: BarricadaInBetLeft Object has overlapping UVs.
+[2021.04.28-19.16.27:016][732]LightingResults: BarricadaInBetLeft Lightmap UV are overlapping by 2.4%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-19.16.27:359][733]LightingResults: Warning: BarricadaInBetLeft Object has overlapping UVs.
+[2021.04.28-19.16.27:359][733]LightingResults: BarricadaInBetLeft Lightmap UV are overlapping by 2.4%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-19.16.28:011][735]LightingResults: Warning: BarricadaInBetLeft Object has overlapping UVs.
+[2021.04.28-19.16.28:011][735]LightingResults: BarricadaInBetLeft Lightmap UV are overlapping by 2.4%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-19.16.28:414][736]LightingResults: Warning: BarricadaInBetLeft Object has overlapping UVs.
+[2021.04.28-19.16.28:414][736]LightingResults: BarricadaInBetLeft Lightmap UV are overlapping by 2.4%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-19.16.28:764][737]LightingResults: Warning: BarricadaInBetLeft Object has overlapping UVs.
+[2021.04.28-19.16.28:764][737]LightingResults: BarricadaInBetLeft Lightmap UV are overlapping by 2.4%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-19.16.29:764][740]LightingResults: Warning: BarricadaInBetLeft Object has overlapping UVs.
+[2021.04.28-19.16.29:764][740]LightingResults: BarricadaInBetLeft Lightmap UV are overlapping by 2.4%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-19.16.32:835][749]LightingResults: Warning: BarricadaInBetLeft Object has overlapping UVs.
+[2021.04.28-19.16.32:835][749]LightingResults: BarricadaInBetLeft Lightmap UV are overlapping by 2.4%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-19.16.32:835][749]LightingResults: Warning: BarricadaInBetLeft Object has overlapping UVs.
+[2021.04.28-19.16.32:835][749]LightingResults: BarricadaInBetLeft Lightmap UV are overlapping by 2.4%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-19.16.33:514][751]LightingResults: Warning: BarricadaInBetLeft Object has overlapping UVs.
+[2021.04.28-19.16.33:514][751]LightingResults: BarricadaInBetLeft Lightmap UV are overlapping by 2.4%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-19.16.33:514][751]LightingResults: Warning: BarricadaInBetLeft Object has overlapping UVs.
+[2021.04.28-19.16.33:514][751]LightingResults: BarricadaInBetLeft Lightmap UV are overlapping by 2.4%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-19.16.34:520][754]LightingResults: Warning: BarricadaInBetLeft Object has overlapping UVs.
+[2021.04.28-19.16.34:520][754]LightingResults: BarricadaInBetLeft Lightmap UV are overlapping by 2.4%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-19.16.34:520][754]LightingResults: Warning: BarricadaInBetLeft Object has overlapping UVs.
+[2021.04.28-19.16.34:520][754]LightingResults: BarricadaInBetLeft Lightmap UV are overlapping by 2.4%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-19.16.35:881][758]LightingResults: Warning: BarricadaInBetLeft Object has overlapping UVs.
+[2021.04.28-19.16.35:881][758]LightingResults: BarricadaInBetLeft Lightmap UV are overlapping by 2.4%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-19.16.35:881][758]LightingResults: Warning: BarricadaInBetLeft Object has overlapping UVs.
+[2021.04.28-19.16.35:881][758]LightingResults: BarricadaInBetLeft Lightmap UV are overlapping by 2.4%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-19.16.36:731][760]LightingResults: Warning: BarricadaInBetLeft Object has overlapping UVs.
+[2021.04.28-19.16.36:731][760]LightingResults: BarricadaInBetLeft Lightmap UV are overlapping by 2.4%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-19.16.37:008][761]LightingResults: Warning: BarricadaInBetLeft Object has overlapping UVs.
+[2021.04.28-19.16.37:008][761]LightingResults: BarricadaInBetLeft Lightmap UV are overlapping by 2.4%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-19.16.37:341][762]LightingResults: Warning: BarricadaInBetLeft Object has overlapping UVs.
+[2021.04.28-19.16.37:341][762]LightingResults: BarricadaInBetLeft Lightmap UV are overlapping by 2.4%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-19.16.37:341][762]LightingResults: Warning: BarricadaInBetLeft Object has overlapping UVs.
+[2021.04.28-19.16.37:341][762]LightingResults: BarricadaInBetLeft Lightmap UV are overlapping by 2.4%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-19.16.38:028][764]LightingResults: Warning: BarricadaInBetBack Object has overlapping UVs.
+[2021.04.28-19.16.38:028][764]LightingResults: BarricadaInBetBack Lightmap UV are overlapping by 2.4%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-19.16.54:245][810]LightingResults: Warning: BarricadaCornerBackLeft Object has overlapping UVs.
+[2021.04.28-19.16.54:245][810]LightingResults: BarricadaCornerBackLeft Lightmap UV are overlapping by 2.2%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-19.17.01:114][830]LightingResults: Warning: BarricadaInBetLeft Object has overlapping UVs.
+[2021.04.28-19.17.01:114][830]LightingResults: BarricadaInBetLeft Lightmap UV are overlapping by 2.4%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-19.17.02:155][833]LightingResults: Warning: BarricadaInBetLeft Object has overlapping UVs.
+[2021.04.28-19.17.02:155][833]LightingResults: BarricadaInBetLeft Lightmap UV are overlapping by 2.4%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-19.17.02:470][834]LightingResults: Warning: BarricadaInBetBack Object has overlapping UVs.
+[2021.04.28-19.17.02:470][834]LightingResults: BarricadaInBetBack Lightmap UV are overlapping by 2.4%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-19.17.03:631][837]LightingResults: Warning: BarricadaInBetBack Object has overlapping UVs.
+[2021.04.28-19.17.03:631][837]LightingResults: BarricadaInBetBack Lightmap UV are overlapping by 2.4%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-19.17.07:685][849]LightingResults: Warning: BarricadaFrontFull Object has overlapping UVs.
+[2021.04.28-19.17.07:685][849]LightingResults: BarricadaFrontFull Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-19.17.09:049][853]LightingResults: Warning: BarricadaCornerRight Object has overlapping UVs.
+[2021.04.28-19.17.09:049][853]LightingResults: BarricadaCornerRight Lightmap UV are overlapping by 2.2%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-19.17.10:100][856]LightingResults: Warning: BarricadaInBetBack Object has overlapping UVs.
+[2021.04.28-19.17.10:100][856]LightingResults: BarricadaInBetBack Lightmap UV are overlapping by 2.4%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-19.17.10:784][858]LightingResults: Warning: BarricadaInBetBack Object has overlapping UVs.
+[2021.04.28-19.17.10:784][858]LightingResults: BarricadaInBetBack Lightmap UV are overlapping by 2.4%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-19.17.12:193][862]LightingResults: Warning: BarricadaInBetBack Object has overlapping UVs.
+[2021.04.28-19.17.12:194][862]LightingResults: BarricadaInBetBack Lightmap UV are overlapping by 2.4%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-19.17.12:882][864]LightingResults: Warning: BarricadaInBetBack Object has overlapping UVs.
+[2021.04.28-19.17.12:882][864]LightingResults: BarricadaInBetBack Lightmap UV are overlapping by 2.4%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-19.17.14:242][868]LightingResults: Warning: BarricadaInBetBack Object has overlapping UVs.
+[2021.04.28-19.17.14:242][868]LightingResults: BarricadaInBetBack Lightmap UV are overlapping by 2.4%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-19.17.15:935][873]LightingResults: Warning: BarricadaInBetBack Object has overlapping UVs.
+[2021.04.28-19.17.15:935][873]LightingResults: BarricadaInBetBack Lightmap UV are overlapping by 2.4%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-19.17.17:297][877]LightingResults: Warning: BarricadaInBetBack Object has overlapping UVs.
+[2021.04.28-19.17.17:297][877]LightingResults: BarricadaInBetBack Lightmap UV are overlapping by 2.4%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-19.17.20:113][885]LightingResults: Warning: BarricadaInBetBack Object has overlapping UVs.
+[2021.04.28-19.17.20:113][885]LightingResults: BarricadaInBetBack Lightmap UV are overlapping by 2.4%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-19.17.24:896][899]LightingResults: Warning: BarricadaInBetBack Object has overlapping UVs.
+[2021.04.28-19.17.24:896][899]LightingResults: BarricadaInBetBack Lightmap UV are overlapping by 2.4%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-19.17.28:474][909]LightingResults: Warning: BarricadaInBetBack Object has overlapping UVs.
+[2021.04.28-19.17.28:474][909]LightingResults: BarricadaInBetBack Lightmap UV are overlapping by 2.4%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-19.17.32:583][921]LightingResults: Warning: BarricadaInBetBack Object has overlapping UVs.
+[2021.04.28-19.17.32:583][921]LightingResults: BarricadaInBetBack Lightmap UV are overlapping by 2.4%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-19.17.38:030][937]LightingResults: Warning: BarricadaInBetBack Object has overlapping UVs.
+[2021.04.28-19.17.38:030][937]LightingResults: BarricadaInBetBack Lightmap UV are overlapping by 2.4%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-19.17.43:114][952]LightingResults: Warning: BarricadaInBetBack Object has overlapping UVs.
+[2021.04.28-19.17.43:114][952]LightingResults: BarricadaInBetBack Lightmap UV are overlapping by 2.4%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-19.17.48:997][969]LightingResults: Warning: BarricadaInBetBack Object has overlapping UVs.
+[2021.04.28-19.17.48:997][969]LightingResults: BarricadaInBetBack Lightmap UV are overlapping by 2.4%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-19.17.54:252][984]LightingResults: Warning: BarricadaInBetBack Object has overlapping UVs.
+[2021.04.28-19.17.54:252][984]LightingResults: BarricadaInBetBack Lightmap UV are overlapping by 2.4%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-19.17.58:016][995]LightingResults: Warning: BarricadaInBetBack Object has overlapping UVs.
+[2021.04.28-19.17.58:016][995]LightingResults: BarricadaInBetBack Lightmap UV are overlapping by 2.4%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-19.18.02:506][  8]LightingResults: Warning: BarricadaInBetBack Object has overlapping UVs.
+[2021.04.28-19.18.02:506][  8]LightingResults: BarricadaInBetBack Lightmap UV are overlapping by 2.4%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-19.18.05:917][ 18]LightingResults: Warning: BarricadaInBetBack Object has overlapping UVs.
+[2021.04.28-19.18.05:917][ 18]LightingResults: BarricadaInBetBack Lightmap UV are overlapping by 2.4%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-19.18.07:624][ 23]LightingResults: Warning: BarricadaInBetBack Object has overlapping UVs.
+[2021.04.28-19.18.07:624][ 23]LightingResults: BarricadaInBetBack Lightmap UV are overlapping by 2.4%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-19.18.08:311][ 25]LightingResults: Warning: BarricadaInBetBack Object has overlapping UVs.
+[2021.04.28-19.18.08:311][ 25]LightingResults: BarricadaInBetBack Lightmap UV are overlapping by 2.4%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-19.18.10:679][ 32]LightingResults: Warning: BarricadaInBetBack Object has overlapping UVs.
+[2021.04.28-19.18.10:679][ 32]LightingResults: BarricadaInBetBack Lightmap UV are overlapping by 2.4%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-19.18.11:790][ 35]LightingResults: Warning: BarricadaInBetBack Object has overlapping UVs.
+[2021.04.28-19.18.11:790][ 35]LightingResults: BarricadaInBetBack Lightmap UV are overlapping by 2.4%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-19.18.11:790][ 35]LightingResults: Warning: BarricadaInBetBack Object has overlapping UVs.
+[2021.04.28-19.18.11:790][ 35]LightingResults: BarricadaInBetBack Lightmap UV are overlapping by 2.4%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-19.18.12:450][ 37]LightingResults: Warning: BarricadaInBetBack Object has overlapping UVs.
+[2021.04.28-19.18.12:450][ 37]LightingResults: BarricadaInBetBack Lightmap UV are overlapping by 2.4%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-19.18.13:470][ 40]LightingResults: Warning: BarricadaInBetBack Object has overlapping UVs.
+[2021.04.28-19.18.13:470][ 40]LightingResults: BarricadaInBetBack Lightmap UV are overlapping by 2.4%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-19.18.13:817][ 41]LightingResults: Warning: BarricadaInBetBack Object has overlapping UVs.
+[2021.04.28-19.18.13:817][ 41]LightingResults: BarricadaInBetBack Lightmap UV are overlapping by 2.4%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-19.18.13:817][ 41]LightingResults: Warning: BarricadaCornerBackRight Object has overlapping UVs.
+[2021.04.28-19.18.13:817][ 41]LightingResults: BarricadaCornerBackRight Lightmap UV are overlapping by 2.2%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-19.18.14:148][ 42]LightingResults: Warning: BarricadaInBetRight Object has overlapping UVs.
+[2021.04.28-19.18.14:148][ 42]LightingResults: BarricadaInBetRight Lightmap UV are overlapping by 2.4%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-19.18.14:502][ 43]LightingResults: Warning: BarricadaInBetRight Object has overlapping UVs.
+[2021.04.28-19.18.14:502][ 43]LightingResults: BarricadaInBetRight Lightmap UV are overlapping by 2.4%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-19.18.14:502][ 43]LightingResults: Warning: BarricadaCornerLeft Object has overlapping UVs.
+[2021.04.28-19.18.14:502][ 43]LightingResults: BarricadaCornerLeft Lightmap UV are overlapping by 2.2%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-19.18.14:848][ 44]LightingResults: Warning: BarricadaInBetRight Object has overlapping UVs.
+[2021.04.28-19.18.14:848][ 44]LightingResults: BarricadaInBetRight Lightmap UV are overlapping by 2.4%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-19.18.14:848][ 44]LightingResults: Warning: BarricadaInBetRight Object has overlapping UVs.
+[2021.04.28-19.18.14:848][ 44]LightingResults: BarricadaInBetRight Lightmap UV are overlapping by 2.4%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-19.18.15:211][ 45]LightingResults: Warning: BarricadaInBetRight Object has overlapping UVs.
+[2021.04.28-19.18.15:211][ 45]LightingResults: BarricadaInBetRight Lightmap UV are overlapping by 2.4%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-19.18.15:211][ 45]LightingResults: Warning: BarricadaInBetRight Object has overlapping UVs.
+[2021.04.28-19.18.15:211][ 45]LightingResults: BarricadaInBetRight Lightmap UV are overlapping by 2.4%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-19.18.15:530][ 46]LightingResults: Warning: BarricadaInBetRight Object has overlapping UVs.
+[2021.04.28-19.18.15:530][ 46]LightingResults: BarricadaInBetRight Lightmap UV are overlapping by 2.4%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-19.18.15:903][ 47]LightingResults: Warning: BarricadaInBetRight Object has overlapping UVs.
+[2021.04.28-19.18.15:903][ 47]LightingResults: BarricadaInBetRight Lightmap UV are overlapping by 2.4%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-19.18.15:903][ 47]LightingResults: Warning: BarricadaInBetRight Object has overlapping UVs.
+[2021.04.28-19.18.15:903][ 47]LightingResults: BarricadaInBetRight Lightmap UV are overlapping by 2.4%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-19.18.16:230][ 48]LightingResults: Warning: BarricadaInBetRight Object has overlapping UVs.
+[2021.04.28-19.18.16:230][ 48]LightingResults: BarricadaInBetRight Lightmap UV are overlapping by 2.4%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-19.18.16:570][ 49]LightingResults: Warning: BarricadaInBetRight Object has overlapping UVs.
+[2021.04.28-19.18.16:570][ 49]LightingResults: BarricadaInBetRight Lightmap UV are overlapping by 2.4%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-19.18.16:570][ 49]LightingResults: Warning: BarricadaFrontFull Object has overlapping UVs.
+[2021.04.28-19.18.16:570][ 49]LightingResults: BarricadaFrontFull Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-19.18.17:498][ 51]LightingResults: Warning: BarricadaInBetRight Object has overlapping UVs.
+[2021.04.28-19.18.17:498][ 51]LightingResults: BarricadaInBetRight Lightmap UV are overlapping by 2.4%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-19.18.21:037][ 62]LightingResults: Warning: BarricadaInBetRight Object has overlapping UVs.
+[2021.04.28-19.18.21:037][ 62]LightingResults: BarricadaInBetRight Lightmap UV are overlapping by 2.4%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-19.18.22:068][ 65]LightingResults: Warning: BarricadaInBetRight Object has overlapping UVs.
+[2021.04.28-19.18.22:068][ 65]LightingResults: BarricadaInBetRight Lightmap UV are overlapping by 2.4%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-19.18.24:150][ 71]LightingResults: Warning: BarricadaInBetRight Object has overlapping UVs.
+[2021.04.28-19.18.24:150][ 71]LightingResults: BarricadaInBetRight Lightmap UV are overlapping by 2.4%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-19.18.24:150][ 71]LightingResults: Warning: BarricadaInBetRight Object has overlapping UVs.
+[2021.04.28-19.18.24:150][ 71]LightingResults: BarricadaInBetRight Lightmap UV are overlapping by 2.4%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-19.18.24:150][ 71]LightingResults: Warning: BarricadaInBetRight Object has overlapping UVs.
+[2021.04.28-19.18.24:150][ 71]LightingResults: BarricadaInBetRight Lightmap UV are overlapping by 2.4%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-19.18.25:236][ 74]LightingResults: Warning: BarricadaInBetRight Object has overlapping UVs.
+[2021.04.28-19.18.25:236][ 74]LightingResults: BarricadaInBetRight Lightmap UV are overlapping by 2.4%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-19.18.25:236][ 74]LightingResults: Warning: BarricadaInBetRight Object has overlapping UVs.
+[2021.04.28-19.18.25:236][ 74]LightingResults: BarricadaInBetRight Lightmap UV are overlapping by 2.4%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-19.18.25:531][ 75]LightingResults: Warning: BarricadaInBetRight Object has overlapping UVs.
+[2021.04.28-19.18.25:531][ 75]LightingResults: BarricadaInBetRight Lightmap UV are overlapping by 2.4%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-19.18.26:193][ 77]LightingResults: Warning: BarricadaInBetRight Object has overlapping UVs.
+[2021.04.28-19.18.26:193][ 77]LightingResults: BarricadaInBetRight Lightmap UV are overlapping by 2.4%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-19.18.26:193][ 77]LightingResults: Warning: BarricadaInBetRight Object has overlapping UVs.
+[2021.04.28-19.18.26:193][ 77]LightingResults: BarricadaInBetRight Lightmap UV are overlapping by 2.4%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-19.18.26:193][ 77]LightingResults: Warning: BarricadaInBetRight Object has overlapping UVs.
+[2021.04.28-19.18.26:193][ 77]LightingResults: BarricadaInBetRight Lightmap UV are overlapping by 2.4%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-19.18.26:886][ 79]LightingResults: Warning: BarricadaInBetRight Object has overlapping UVs.
+[2021.04.28-19.18.26:886][ 79]LightingResults: BarricadaInBetRight Lightmap UV are overlapping by 2.4%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-19.18.27:234][ 80]LightingResults: Warning: BarricadaInBetRight Object has overlapping UVs.
+[2021.04.28-19.18.27:234][ 80]LightingResults: BarricadaInBetRight Lightmap UV are overlapping by 2.4%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.28-19.18.32:308][ 95]Job is a success!
+[2021.04.28-19.18.34:069][ 96]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.957s
+[2021.04.28-19.18.34:069][ 96]LogVolumetricLightmapImport:      Indirection Texture 112x112x32 = 1.5Mb
+[2021.04.28-19.18.34:070][ 96]LogVolumetricLightmapImport:      BrickData (all levels) 28.8Mb (trimmed 10.5Mb due to 0.010000 MinBrickError)
+[2021.04.28-19.18.34:070][ 96]LogVolumetricLightmapImport:      Bricks at depth
+[2021.04.28-19.18.34:070][ 96]LogVolumetricLightmapImport:          0: 1.7% covering 100.0% of volume
+[2021.04.28-19.18.34:070][ 96]LogVolumetricLightmapImport:          1: 8.0% covering 7.3% of volume
+[2021.04.28-19.18.34:070][ 96]LogVolumetricLightmapImport:          2: 90.3% covering 1.3% of volume
+[2021.04.28-19.18.34:070][ 96]LogVolumetricLightmapImport:      Bricks in each level
+[2021.04.28-19.18.34:070][ 96]LogVolumetricLightmapImport:          ThirdPersonExampleMap 			 5712 bricks 	 100.0% (Persistent Level)
+[2021.04.28-19.18.54:112][ 96]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2021.04.28-19.18.54:112][ 96]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2021.04.28-19.18.54:112][ 96]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2021.04.28-19.18.54:112][ 96]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 1024X512)
+[2021.04.28-19.18.54:112][ 96]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2021.04.28-19.18.54:112][ 96]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2021.04.28-19.18.54:112][ 96]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 1024X512)
+[2021.04.28-19.18.54:112][ 96]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 1024X1024)
+[2021.04.28-19.18.54:112][ 96]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 1024X1024)
+[2021.04.28-19.18.54:112][ 96]LogTexture: Display: Building textures: SkyOcclusion1_4 (AutoDXT, 1024X512)
+[2021.04.28-19.18.54:112][ 96]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 1024X1024)
+[2021.04.28-19.18.54:112][ 96]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 1024X1024)
+[2021.04.28-19.18.54:112][ 96]LogTexture: Display: Building textures: SkyOcclusion1_5 (AutoDXT, 1024X512)
+[2021.04.28-19.18.54:113][ 96]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 1024X1024)
+[2021.04.28-19.18.54:113][ 96]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 1024X1024)
+[2021.04.28-19.18.54:113][ 96]LogTexture: Display: Building textures: SkyOcclusion1_6 (AutoDXT, 1024X512)
+[2021.04.28-19.18.54:113][ 96]LogTexture: Display: Building textures: HQ_Lightmap1_6 (AutoDXT, 1024X1024)
+[2021.04.28-19.18.54:113][ 96]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (DXT1, 1024X1024)
+[2021.04.28-19.18.54:113][ 96]LogTexture: Display: Building textures: SkyOcclusion1_7 (AutoDXT, 1024X512)
+[2021.04.28-19.18.54:113][ 96]LogTexture: Display: Building textures: HQ_Lightmap1_7 (AutoDXT, 1024X1024)
+[2021.04.28-19.18.54:113][ 96]LogTexture: Display: Building textures: LQ_Lightmap_1_7 (DXT1, 1024X1024)
+[2021.04.28-19.18.54:113][ 96]LogTexture: Display: Building textures: SkyOcclusion1_8 (AutoDXT, 1024X512)
+[2021.04.28-19.18.54:113][ 96]LogTexture: Display: Building textures: HQ_Lightmap1_8 (AutoDXT, 1024X1024)
+[2021.04.28-19.18.54:113][ 96]LogTexture: Display: Building textures: LQ_Lightmap_1_8 (DXT1, 1024X1024)
+[2021.04.28-19.18.54:113][ 96]LogTexture: Display: Building textures: SkyOcclusion1_9 (AutoDXT, 1024X512)
+[2021.04.28-19.18.54:113][ 96]LogTexture: Display: Building textures: HQ_Lightmap1_9 (AutoDXT, 1024X1024)
+[2021.04.28-19.18.54:113][ 96]LogTexture: Display: Building textures: LQ_Lightmap_1_9 (DXT1, 1024X1024)
+[2021.04.28-19.18.54:113][ 96]LogTexture: Display: Building textures: SkyOcclusion1_10 (AutoDXT, 512X256)
+[2021.04.28-19.18.54:113][ 96]LogTexture: Display: Building textures: HQ_Lightmap1_10 (AutoDXT, 512X512)
+[2021.04.28-19.18.54:113][ 96]LogTexture: Display: Building textures: LQ_Lightmap_1_10 (DXT1, 512X512)
+[2021.04.28-19.18.54:113][ 96]LogTexture: Display: Building textures: SkyOcclusion1_11 (AutoDXT, 1024X512)
+[2021.04.28-19.18.54:113][ 96]LogTexture: Display: Building textures: HQ_Lightmap1_11 (AutoDXT, 1024X1024)
+[2021.04.28-19.18.54:113][ 96]LogTexture: Display: Building textures: LQ_Lightmap_1_11 (DXT1, 1024X1024)
+[2021.04.28-19.18.54:113][ 96]LogTexture: Display: Building textures: SkyOcclusion1_12 (AutoDXT, 1024X512)
+[2021.04.28-19.18.54:114][ 96]LogTexture: Display: Building textures: HQ_Lightmap1_12 (AutoDXT, 1024X1024)
+[2021.04.28-19.18.54:114][ 96]LogTexture: Display: Building textures: LQ_Lightmap_1_12 (DXT1, 1024X1024)
+[2021.04.28-19.18.54:114][ 96]LogTexture: Display: Building textures: SkyOcclusion1_13 (AutoDXT, 512X256)
+[2021.04.28-19.18.54:114][ 96]LogTexture: Display: Building textures: HQ_Lightmap1_13 (AutoDXT, 512X512)
+[2021.04.28-19.18.54:114][ 96]LogTexture: Display: Building textures: LQ_Lightmap_1_13 (DXT1, 512X512)
+[2021.04.28-19.18.54:114][ 96]LogTexture: Display: Building textures: SkyOcclusion1_14 (AutoDXT, 256X128)
+[2021.04.28-19.18.54:114][ 96]LogTexture: Display: Building textures: HQ_Lightmap1_14 (AutoDXT, 256X256)
+[2021.04.28-19.18.54:114][ 96]LogTexture: Display: Building textures: LQ_Lightmap_1_14 (DXT1, 256X256)
+[2021.04.28-19.18.54:114][ 96]LogTexture: Display: Building textures: SkyOcclusion1_15 (AutoDXT, 256X128)
+[2021.04.28-19.18.54:114][ 96]LogTexture: Display: Building textures: HQ_Lightmap1_15 (AutoDXT, 256X256)
+[2021.04.28-19.18.54:114][ 96]LogTexture: Display: Building textures: LQ_Lightmap_1_15 (DXT1, 256X256)
+[2021.04.28-19.18.54:114][ 96]LogTexture: Display: Building textures: SkyOcclusion1_16 (AutoDXT, 256X128)
+[2021.04.28-19.18.54:114][ 96]LogTexture: Display: Building textures: HQ_Lightmap1_16 (AutoDXT, 256X256)
+[2021.04.28-19.18.54:114][ 96]LogTexture: Display: Building textures: LQ_Lightmap_1_16 (DXT1, 256X256)
+[2021.04.28-19.18.54:114][ 96]LogTexture: Display: Building textures: SkyOcclusion1_17 (AutoDXT, 128X64)
+[2021.04.28-19.18.54:114][ 96]LogTexture: Display: Building textures: HQ_Lightmap1_17 (AutoDXT, 128X128)
+[2021.04.28-19.18.54:114][ 96]LogTexture: Display: Building textures: LQ_Lightmap_1_17 (DXT1, 128X128)
+[2021.04.28-19.18.54:114][ 96]LogTexture: Display: Building textures: SkyOcclusion1_18 (AutoDXT, 256X128)
+[2021.04.28-19.18.54:114][ 96]LogTexture: Display: Building textures: HQ_Lightmap1_18 (AutoDXT, 256X256)
+[2021.04.28-19.18.54:114][ 96]LogTexture: Display: Building textures: LQ_Lightmap_1_18 (DXT1, 256X256)
+[2021.04.28-19.18.54:114][ 96]LogTexture: Display: Building textures: HQ_Lightmap1_19 (AutoDXT, 128X128)
+[2021.04.28-19.18.54:114][ 96]LogTexture: Display: Building textures: SkyOcclusion1_19 (AutoDXT, 128X64)
+[2021.04.28-19.18.54:114][ 96]LogTexture: Display: Building textures: LQ_Lightmap_1_19 (DXT1, 128X128)
+[2021.04.28-19.18.54:114][ 96]LogTexture: Display: Building textures: SkyOcclusion1_20 (AutoDXT, 256X128)
+[2021.04.28-19.18.54:117][ 96]LogTexture: Display: Building textures: HQ_Lightmap1_20 (AutoDXT, 256X256)
+[2021.04.28-19.18.54:117][ 96]LogTexture: Display: Building textures: LQ_Lightmap_1_20 (DXT1, 256X256)
+[2021.04.28-19.18.54:117][ 96]LogTexture: Display: Building textures: SkyOcclusion1_21 (AutoDXT, 128X64)
+[2021.04.28-19.18.54:117][ 96]LogTexture: Display: Building textures: HQ_Lightmap1_21 (AutoDXT, 128X128)
+[2021.04.28-19.18.54:117][ 96]LogTexture: Display: Building textures: LQ_Lightmap_1_21 (DXT1, 128X128)
+[2021.04.28-19.18.54:117][ 96]LogTexture: Display: Building textures: SkyOcclusion1_22 (AutoDXT, 128X64)
+[2021.04.28-19.18.54:117][ 96]LogTexture: Display: Building textures: HQ_Lightmap1_22 (AutoDXT, 128X128)
+[2021.04.28-19.18.54:117][ 96]LogTexture: Display: Building textures: LQ_Lightmap_1_22 (DXT1, 128X128)
+[2021.04.28-19.18.54:117][ 96]LogTexture: Display: Building textures: SkyOcclusion1_23 (AutoDXT, 256X128)
+[2021.04.28-19.18.54:117][ 96]LogTexture: Display: Building textures: HQ_Lightmap1_23 (AutoDXT, 256X256)
+[2021.04.28-19.18.54:117][ 96]LogTexture: Display: Building textures: LQ_Lightmap_1_23 (DXT1, 256X256)
+[2021.04.28-19.18.54:117][ 96]LogTexture: Display: Building textures: SkyOcclusion1_24 (AutoDXT, 256X128)
+[2021.04.28-19.18.54:117][ 96]LogTexture: Display: Building textures: LQ_Lightmap_1_24 (DXT1, 256X256)
+[2021.04.28-19.18.54:117][ 96]LogTexture: Display: Building textures: HQ_Lightmap1_24 (AutoDXT, 256X256)
+[2021.04.28-19.18.54:117][ 96]LogTexture: Display: Building textures: SkyOcclusion1_25 (AutoDXT, 256X128)
+[2021.04.28-19.18.54:117][ 96]LogTexture: Display: Building textures: HQ_Lightmap1_25 (AutoDXT, 256X256)
+[2021.04.28-19.18.54:117][ 96]LogTexture: Display: Building textures: LQ_Lightmap_1_25 (DXT1, 256X256)
+[2021.04.28-19.18.54:117][ 96]LogTexture: Display: Building textures: SkyOcclusion1_26 (AutoDXT, 256X128)
+[2021.04.28-19.18.54:117][ 96]LogTexture: Display: Building textures: HQ_Lightmap1_26 (AutoDXT, 256X256)
+[2021.04.28-19.18.54:117][ 96]LogTexture: Display: Building textures: LQ_Lightmap_1_26 (DXT1, 256X256)
+[2021.04.28-19.18.54:117][ 96]LogTexture: Display: Building textures: SkyOcclusion1_27 (AutoDXT, 256X128)
+[2021.04.28-19.18.54:117][ 96]LogTexture: Display: Building textures: HQ_Lightmap1_27 (AutoDXT, 256X256)
+[2021.04.28-19.18.54:117][ 96]LogTexture: Display: Building textures: LQ_Lightmap_1_27 (DXT1, 256X256)
+[2021.04.28-19.18.54:117][ 96]LogTexture: Display: Building textures: SkyOcclusion1_28 (AutoDXT, 256X128)
+[2021.04.28-19.18.54:117][ 96]LogTexture: Display: Building textures: HQ_Lightmap1_28 (AutoDXT, 256X256)
+[2021.04.28-19.18.54:117][ 96]LogTexture: Display: Building textures: LQ_Lightmap_1_28 (DXT1, 256X256)
+[2021.04.28-19.18.54:117][ 96]LogTexture: Display: Building textures: SkyOcclusion1_29 (AutoDXT, 256X128)
+[2021.04.28-19.18.54:117][ 96]LogTexture: Display: Building textures: HQ_Lightmap1_29 (AutoDXT, 256X256)
+[2021.04.28-19.18.54:117][ 96]LogTexture: Display: Building textures: LQ_Lightmap_1_29 (DXT1, 256X256)
+[2021.04.28-19.18.54:117][ 96]LogTexture: Display: Building textures: SkyOcclusion1_30 (AutoDXT, 256X128)
+[2021.04.28-19.18.54:117][ 96]LogTexture: Display: Building textures: HQ_Lightmap1_30 (AutoDXT, 256X256)
+[2021.04.28-19.18.54:117][ 96]LogTexture: Display: Building textures: LQ_Lightmap_1_30 (DXT1, 256X256)
+[2021.04.28-19.18.54:117][ 96]LogTexture: Display: Building textures: SkyOcclusion1_31 (AutoDXT, 256X128)
+[2021.04.28-19.18.54:117][ 96]LogTexture: Display: Building textures: HQ_Lightmap1_31 (AutoDXT, 256X256)
+[2021.04.28-19.18.54:117][ 96]LogTexture: Display: Building textures: LQ_Lightmap_1_31 (DXT1, 256X256)
+[2021.04.28-19.18.54:117][ 96]LogTexture: Display: Building textures: SkyOcclusion1_32 (AutoDXT, 256X128)
+[2021.04.28-19.18.54:117][ 96]LogTexture: Display: Building textures: HQ_Lightmap1_32 (AutoDXT, 256X256)
+[2021.04.28-19.18.54:117][ 96]LogTexture: Display: Building textures: LQ_Lightmap_1_32 (DXT1, 256X256)
+[2021.04.28-19.18.54:117][ 96]LogTexture: Display: Building textures: SkyOcclusion1_33 (AutoDXT, 128X64)
+[2021.04.28-19.18.54:117][ 96]LogTexture: Display: Building textures: HQ_Lightmap1_33 (AutoDXT, 128X128)
+[2021.04.28-19.18.54:117][ 96]LogTexture: Display: Building textures: LQ_Lightmap_1_33 (DXT1, 128X128)
+[2021.04.28-19.18.54:117][ 96]LogTexture: Display: Building textures: SkyOcclusion1_34 (AutoDXT, 128X64)
+[2021.04.28-19.18.54:117][ 96]LogTexture: Display: Building textures: HQ_Lightmap1_34 (AutoDXT, 128X128)
+[2021.04.28-19.18.54:117][ 96]LogTexture: Display: Building textures: LQ_Lightmap_1_34 (DXT1, 128X128)
+[2021.04.28-19.18.54:117][ 96]LogTexture: Display: Building textures: SkyOcclusion1_35 (AutoDXT, 64X32)
+[2021.04.28-19.18.54:117][ 96]LogTexture: Display: Building textures: HQ_Lightmap1_35 (AutoDXT, 64X64)
+[2021.04.28-19.18.54:117][ 96]LogTexture: Display: Building textures: LQ_Lightmap_1_35 (DXT1, 64X64)
+[2021.04.28-19.18.54:384][ 96]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (BGRA8, 1024X128)
+[2021.04.28-19.18.54:384][ 96]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (BGRA8, 1024X512)
+[2021.04.28-19.18.54:384][ 96]Lightmass on DESKTOP-VIC6N91: 7:08 min total, 2.14 sec importing, 1.11 sec setup, 1:29 min photons, 5:35 min processing, 0 ms extra exporting [2260/2260 mappings]. Threads: 22:21 min total, 9:08 min processing.
+[2021.04.28-19.18.54:404][ 96]LogStaticLightingSystem: ThirdPersonExampleMap_BuiltData storing lightmap data for 1315 meshes in 41 LightmapResourceClusters (32.1 Meshes per cluster).
+[2021.04.28-19.18.54:480][ 96]LogMaterial: Display: Material /Game/Geometry/Meshes/Cafeteria/Texturas/Metal/MetalCafeteria.MetalCafeteria needed to have new flag set bUsedWithStaticLighting !
+[2021.04.28-19.18.54:520][ 96]LogMaterial: Display: Material /Engine/Transient.MetalCafeteria needed to have new flag set bUsedWithStaticLighting !
+[2021.04.28-19.18.54:521][ 96]LogMaterial: Display: Missing cached shader map for material MetalCafeteria, compiling. 
+[2021.04.28-19.18.54:531][ 96]LogMaterial: Display: Missing cached shader map for material MetalCafeteria, compiling. 
+[2021.04.28-19.18.54:554][ 96]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11
+[2021.04.28-19.18.54:554][ 96]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 10
+[2021.04.28-19.18.54:554][ 96]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 9
+[2021.04.28-19.18.54:555][ 96]LogMaterial: Display: Material /Game/Geometry/Meshes/Cafeteria/Texturas/Stuco/ParedCafeteria.ParedCafeteria needed to have new flag set bUsedWithStaticLighting !
+[2021.04.28-19.18.54:557][ 96]LogMaterial: Display: Missing cached shader map for material ParedCafeteria, compiling. 
+[2021.04.28-19.18.54:573][ 96]LogMaterial: Display: Material /Game/Geometry/Meshes/Cafeteria/Texturas/Madera/MaderaPuertaCafete.MaderaPuertaCafete needed to have new flag set bUsedWithStaticLighting !
+[2021.04.28-19.18.54:574][ 96]LogMaterial: Display: Material /Engine/Transient.MaderaPuertaCafete needed to have new flag set bUsedWithStaticLighting !
+[2021.04.28-19.18.54:575][ 96]LogMaterial: Display: Missing cached shader map for material MaderaPuertaCafete, compiling. 
+[2021.04.28-19.18.54:586][ 96]LogMaterial: Display: Missing cached shader map for material MaderaPuertaCafete, compiling. 
+[2021.04.28-19.18.54:602][ 96]LogMaterial: Display: Material /Game/Geometry/Meshes/Cafeteria/Texturas/Piedra/Piedra.Piedra needed to have new flag set bUsedWithStaticLighting !
+[2021.04.28-19.18.54:603][ 96]LogMaterial: Display: Missing cached shader map for material Piedra, compiling. 
+[2021.04.28-19.18.54:788][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2021.04.28-19.18.55:602][ 96]LogStaticLightingSystem: Illumination: 7:38 min (18.7 sec encoding lightmaps, 163 ms encoding shadowmaps)
+[2021.04.28-19.18.55:602][ 96]LogStaticLightingSystem: Lightmap texture memory:  33.4 MB (30.8 MB streaming, 2.7 MB non-streaming), 70 textures
+[2021.04.28-19.18.55:602][ 96]LogStaticLightingSystem: Shadowmap texture memory: 3.3 MB (0.7 MB streaming, 2.7 MB non-streaming), 2 textures
+[2021.04.28-19.18.59:875][ 96]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 103
+[2021.04.28-19.18.59:875][ 96]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 102
+[2021.04.28-19.18.59:875][ 96]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 101
+[2021.04.28-19.18.59:875][ 96]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 100
+[2021.04.28-19.18.59:875][ 96]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 99
+[2021.04.28-19.18.59:875][ 96]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 98
+[2021.04.28-19.18.59:875][ 96]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 97
+[2021.04.28-19.18.59:875][ 96]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 96
+[2021.04.28-19.18.59:875][ 96]DumpUnbuiltLightIteractions
+[2021.04.28-19.18.59:876][ 96]Lights with unbuilt interactions: 0
+[2021.04.28-19.18.59:876][ 96]
+[2021.04.28-19.18.59:876][ 96]Primitives with unbuilt interactions: 0
+[2021.04.28-19.18.59:989][ 96]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 95
+[2021.04.28-19.19.26:581][ 96]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 94
+[2021.04.28-19.19.26:581][ 96]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 93
+[2021.04.28-19.19.26:581][ 96]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 92
+[2021.04.28-19.19.26:581][ 96]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 91
+[2021.04.28-19.19.26:581][ 96]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 90
+[2021.04.28-19.19.26:581][ 96]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 89
+[2021.04.28-19.19.26:582][ 96]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 88
+[2021.04.28-19.19.26:582][ 96]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 87
+[2021.04.28-19.19.26:582][ 96]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 86
+[2021.04.28-19.19.26:582][ 96]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 85
+[2021.04.28-19.19.26:582][ 96]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 84
+[2021.04.28-19.19.26:582][ 96]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 74
+[2021.04.28-19.19.26:582][ 96]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 64
+[2021.04.28-19.19.26:582][ 96]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 54
+[2021.04.28-19.19.26:582][ 96]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 44
+[2021.04.28-19.19.26:582][ 96]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 34
+[2021.04.28-19.19.26:582][ 96]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 24
+[2021.04.28-19.19.26:582][ 96]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 15
+[2021.04.28-19.19.26:582][ 96]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 9
+[2021.04.28-19.19.26:582][ 96]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 5
+[2021.04.28-19.19.26:582][ 96]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2021.04.28-19.19.26:582][ 96]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.04.28-19.19.26:976][ 96]LogTexture: Display: Building textures: NewReflectionComponentTexture423969A0414EDC3154C62E9FD99BD617 (BGRA8, 128X128)
+[2021.04.28-19.19.27:035][ 97]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.04.28-19.19.27:035][ 97]MapCheck: New page: ThirdPersonExampleMap - Apr 28, 2021, 9:19:27 AM
+[2021.04.28-19.19.27:083][ 97]MapCheck: Warning: TestSize_166 Static mesh actor has NULL StaticMesh property 
+[2021.04.28-19.19.27:083][ 97]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 47.915ms to complete.
+[2021.04.28-19.19.27:094][ 97]MaterialEditorStats: Base pass shader: 128 instructions
+[2021.04.28-19.19.27:094][ 97]MaterialEditorStats: Base pass shader with Surface Lightmap: 155 instructions
+[2021.04.28-19.19.27:094][ 97]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 202 instructions
+[2021.04.28-19.19.27:094][ 97]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.04.28-19.19.27:094][ 97]MaterialEditorStats: Texture samplers: 5/16
+[2021.04.28-19.19.27:094][ 97]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2021.04.28-19.19.27:094][ 97]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.04.28-19.19.27:094][ 97]MaterialEditorStats: Base pass shader: 128 instructions
+[2021.04.28-19.19.27:094][ 97]MaterialEditorStats: Base pass shader with Surface Lightmap: 155 instructions
+[2021.04.28-19.19.27:094][ 97]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 202 instructions
+[2021.04.28-19.19.27:095][ 97]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.04.28-19.19.27:095][ 97]MaterialEditorStats: Texture samplers: 5/16
+[2021.04.28-19.19.27:095][ 97]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.04.28-19.19.27:095][ 97]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.04.28-19.21.00:176][372]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2021.04.28-19.21.01:324][372]LogSavePackage: Moving '../../../../../Unreal Projects/SpaceWar/Saved/ThirdPersonExampleMap_Auto8231702D3488B76B39D6AECA0AE2C038B.tmp' to '../../../../../Unreal Projects/SpaceWar/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto8.umap'
+[2021.04.28-19.21.01:327][372]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 1.164
+[2021.04.28-19.21.01:327][372]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.164
+[2021.04.28-19.21.01:328][372]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Meshes/Cafeteria/CafeteriaPiso_Cube_035] ([1] browsable assets)...
+[2021.04.28-19.21.01:429][372]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Geometry/Meshes/Cafeteria/CafeteriaPiso_Cube_035.CafeteriaPiso_Cube_035]
+[2021.04.28-19.21.01:429][372]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Meshes/Cafeteria/CafeteriaPiso_Cube_035]
+[2021.04.28-19.21.01:438][372]LogSavePackage: Moving '../../../../../Unreal Projects/SpaceWar/Saved/CafeteriaPiso_Cube_035_Auto88562CD764AA91D5F07A5358DD84DD308.tmp' to '../../../../../Unreal Projects/SpaceWar/Saved/Autosaves/Game/Geometry/Meshes/Cafeteria/CafeteriaPiso_Cube_035_Auto8.uasset'
+[2021.04.28-19.21.01:440][372]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Geometry/Meshes/Cafeteria/Texturas/Stuco/ParedCafeteria] ([1] browsable assets)...
+[2021.04.28-19.21.01:440][372]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Meshes/Cafeteria/Texturas/Stuco/ParedCafeteria]
+[2021.04.28-19.21.01:443][372]LogSavePackage: Moving '../../../../../Unreal Projects/SpaceWar/Saved/ParedCafeteria_Auto853EA89A0414B5ED537591AAECB75DA3B.tmp' to '../../../../../Unreal Projects/SpaceWar/Saved/Autosaves/Game/Geometry/Meshes/Cafeteria/Texturas/Stuco/ParedCafeteria_Auto8.uasset'
+[2021.04.28-19.21.01:444][372]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Geometry/Meshes/Cafeteria/Texturas/Piedra/Piedra] ([1] browsable assets)...
+[2021.04.28-19.21.01:444][372]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Meshes/Cafeteria/Texturas/Piedra/Piedra]
+[2021.04.28-19.21.01:446][372]LogSavePackage: Moving '../../../../../Unreal Projects/SpaceWar/Saved/Piedra_Auto8EC3F569A4A91909FD0A83284B1532523.tmp' to '../../../../../Unreal Projects/SpaceWar/Saved/Autosaves/Game/Geometry/Meshes/Cafeteria/Texturas/Piedra/Piedra_Auto8.uasset'
+[2021.04.28-19.21.01:448][372]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Geometry/Meshes/Cafeteria/Texturas/Metal/MetalCafeteria] ([1] browsable assets)...
+[2021.04.28-19.21.01:448][372]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Meshes/Cafeteria/Texturas/Metal/MetalCafeteria]
+[2021.04.28-19.21.01:455][372]LogSavePackage: Moving '../../../../../Unreal Projects/SpaceWar/Saved/MetalCafeteria_Auto86C63F3434AE087C4186E3E987F58B376.tmp' to '../../../../../Unreal Projects/SpaceWar/Saved/Autosaves/Game/Geometry/Meshes/Cafeteria/Texturas/Metal/MetalCafeteria_Auto8.uasset'
+[2021.04.28-19.21.01:456][372]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Geometry/Meshes/Cafeteria/Texturas/Madera/MaderaPuertaCafete] ([1] browsable assets)...
+[2021.04.28-19.21.01:456][372]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Meshes/Cafeteria/Texturas/Madera/MaderaPuertaCafete]
+[2021.04.28-19.21.01:458][372]LogSavePackage: Moving '../../../../../Unreal Projects/SpaceWar/Saved/MaderaPuertaCafete_Auto8763BA15B4ACBCACE76E5AC8748600A31.tmp' to '../../../../../Unreal Projects/SpaceWar/Saved/Autosaves/Game/Geometry/Meshes/Cafeteria/Texturas/Madera/MaderaPuertaCafete_Auto8.uasset'
+[2021.04.28-19.21.01:459][372]LogFileHelpers: Auto-saving content packages took 0.132
+[2021.04.28-19.59.49:373][314]LogSlate: Window 'Message Log' being destroyed
+[2021.04.28-19.59.49:406][314]LogSlate: Window 'Message Log' being destroyed
+[2021.04.28-19.59.53:155][507]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.28-19.59.53:162][507]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.28-19.59.53:162][507]PIE: New page: PIE session: ThirdPersonExampleMap (Apr 28, 2021, 9:59:53 AM)
+[2021.04.28-19.59.53:163][507]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.04.28-19.59.53:411][507]LogPlayLevel: PIE: StaticDuplicateObject took: (0.247954s)
+[2021.04.28-19.59.53:412][507]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.04.28-19.59.53:414][507]LogPlayLevel: PIE: World Init took: (0.003488s)
+[2021.04.28-19.59.53:415][507]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.252356s)
+[2021.04.28-19.59.53:427][507]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2021.04.28-19.59.53:431][507]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.04.28-19.59.53:431][507]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.28-19.59.53:431][507]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.28-19.59.53:431][507]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.28-19.59.53:431][507]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.28-19.59.53:431][507]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.28-19.59.53:431][507]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.28-19.59.53:431][507]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.28-19.59.53:431][507]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.28-19.59.53:431][507]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.28-19.59.53:431][507]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.28-19.59.53:436][507]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.28-19.59.53:436][507]LogAudioMixer: Display: 1: FrontRight
+[2021.04.28-19.59.53:461][507]LogAudioMixer: Display: Using Audio Device Altavoces (High Definition Audio Device)
+[2021.04.28-19.59.53:461][507]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.28-19.59.53:461][507]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.28-19.59.53:461][507]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.28-19.59.53:462][507]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.28-19.59.53:462][507]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.28-19.59.53:462][507]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.28-19.59.53:494][507]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.28-19.59.53:494][507]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.28-19.59.53:494][507]LogInit: FAudioDevice initialized.
+[2021.04.28-19.59.53:494][507]LogAudio: Display: Audio Device (ID: 5) registered with world 'ThirdPersonExampleMap'.
+[2021.04.28-19.59.53:506][507]LogLoad: Game class is 'GameModeBase'
+[2021.04.28-19.59.53:558][507]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.04.28-14.59.53
+[2021.04.28-19.59.53:559][507]LogWorld: Bringing up level for play took: 0.052713
+[2021.04.28-19.59.53:559][507]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2021.04.28-19.59.53:566][507]PIE: Server logged in
+[2021.04.28-19.59.53:567][507]PIE: Play in editor total start time 0.405 seconds.
+[2021.04.28-19.59.54:675][558]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Reloading
+[2021.04.28-19.59.55:673][615]LogBlueprintUserMessages: [Weapon_BP_C_0] Reloaded
+[2021.04.28-20.00.02:377][969]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Reloading
+[2021.04.28-20.00.03:366][ 21]LogBlueprintUserMessages: [Weapon_BP_C_0] Reloaded
+[2021.04.28-20.01.27:831][387]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Reloading
+[2021.04.28-20.01.28:823][442]LogBlueprintUserMessages: [Weapon_BP_C_0] Reloaded
+[2021.04.28-20.01.44:655][323]LogBlueprintUserMessages: [EnemieXD3] Daño en Cuerpo
+[2021.04.28-20.01.51:794][786]LogBlueprintUserMessages: [Weapon_BP_C_0] Reload, you have no ammo
+[2021.04.28-20.01.52:154][811]LogBlueprintUserMessages: [Weapon_BP_C_0] Reload, you have no ammo
+[2021.04.28-20.01.52:314][822]LogBlueprintUserMessages: [Weapon_BP_C_0] Reload, you have no ammo
+[2021.04.28-20.01.52:676][847]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Reloading
+[2021.04.28-20.01.53:661][905]LogBlueprintUserMessages: [Weapon_BP_C_0] Reloaded
+[2021.04.28-20.02.04:486][557]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Reloading
+[2021.04.28-20.02.05:473][619]LogBlueprintUserMessages: [Weapon_BP_C_0] Reloaded
+[2021.04.28-20.02.31:116][212]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Reloading
+[2021.04.28-20.02.32:112][256]LogBlueprintUserMessages: [Weapon_BP_C_0] Reloaded
+[2021.04.28-20.02.41:941][828]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-20.02.41:941][828]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.04.28-20.02.41:943][828]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-20.02.41:990][828]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-20.02.42:007][828]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.28-20.02.42:013][828]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-20.02.42:028][828]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-20.02.42:028][828]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.28-20.02.42:030][828]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.28-20.02.42:074][828]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2021.04.28-20.02.42:103][829]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2021.04.28-20.02.45:736][ 79]LogMaterialEditor: Saving and Compiling material MetalCafeteria
+[2021.04.28-20.02.46:522][ 79]LogMaterial: Display: Missing cached shader map for material MetalCafeteria, compiling. 
+[2021.04.28-20.02.46:571][ 79]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11
+[2021.04.28-20.02.46:571][ 79]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 10
+[2021.04.28-20.02.46:571][ 79]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 9
+[2021.04.28-20.02.46:595][ 79]LogMaterial: Display: Missing cached shader map for material MetalCafeteria, compiling. 
+[2021.04.28-20.02.46:661][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.04.28-20.02.46:694][ 79]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.04.28-20.02.48:381][ 79]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 31
+[2021.04.28-20.02.48:381][ 79]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 30
+[2021.04.28-20.02.48:381][ 79]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 29
+[2021.04.28-20.02.48:942][ 79]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 28
+[2021.04.28-20.02.49:503][ 79]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 27
+[2021.04.28-20.02.49:503][ 79]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 26
+[2021.04.28-20.02.49:503][ 79]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 25
+[2021.04.28-20.02.50:064][ 79]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 24
+[2021.04.28-20.02.50:625][ 79]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 23
+[2021.04.28-20.02.50:625][ 79]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 22
+[2021.04.28-20.02.51:186][ 79]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 21
+[2021.04.28-20.02.51:186][ 79]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2021.04.28-20.02.51:199][ 79]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2021.04.28-20.02.51:207][ 79]TextureStreamingBuild: Display: Compiling optional shaders took 4.518 seconds.
+[2021.04.28-20.02.51:229][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.04.28-20.02.55:352][ 79]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2021.04.28-20.02.56:473][ 79]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2021.04.28-20.02.57:034][ 79]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.04.28-20.02.58:768][ 79]LogSavePackage: Moving '../../../../../Unreal Projects/SpaceWar/Saved/MetalCafeteriaE1FA6F0B43CD30B777A3019644DE1788.tmp' to '../../../../../Unreal Projects/SpaceWar/Content/Geometry/Meshes/Cafeteria/Texturas/Metal/MetalCafeteria.uasset'
+[2021.04.28-20.02.58:813][ 79]AssetCheck: New page: Asset Save: MetalCafeteria
+[2021.04.28-20.02.58:813][ 79]LogContentValidation: Display: Validating Material /Game/Geometry/Meshes/Cafeteria/Texturas/Metal/MetalCafeteria.MetalCafeteria
+[2021.04.28-20.02.58:815][ 79]MaterialEditorStats: Base pass shader: 128 instructions
+[2021.04.28-20.02.58:815][ 79]MaterialEditorStats: Base pass shader with Surface Lightmap: 155 instructions
+[2021.04.28-20.02.58:815][ 79]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 202 instructions
+[2021.04.28-20.02.58:815][ 79]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.04.28-20.02.58:815][ 79]MaterialEditorStats: Texture samplers: 6/16
+[2021.04.28-20.02.58:815][ 79]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2021.04.28-20.02.58:815][ 79]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.04.28-20.03.01:957][368]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-20.03.01:957][368]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-20.03.04:056][410]LogSlate: Window 'Message' being destroyed
+[2021.04.28-20.03.04:113][410]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Geometry/Meshes/Cafeteria/Texturas/Concreto/ConcretoCafe.ConcretoCafe
+(Selecting 'No' will cause all changes to be lost!)
+[2021.04.28-20.03.04:892][410]LogMaterial: Display: Missing cached shader map for material ConcretoCafe, compiling. 
+[2021.04.28-20.03.04:935][410]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2021.04.28-20.03.04:935][410]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2021.04.28-20.03.04:935][410]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2021.04.28-20.03.04:955][410]LogMaterial: Display: Missing cached shader map for material ConcretoCafe, compiling. 
+[2021.04.28-20.03.05:654][410]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2021.04.28-20.03.05:662][410]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 18
+[2021.04.28-20.03.05:662][410]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.04.28-20.03.06:229][410]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 19
+[2021.04.28-20.03.06:229][410]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 18
+[2021.04.28-20.03.06:789][410]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 17
+[2021.04.28-20.03.06:789][410]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 16
+[2021.04.28-20.03.07:348][410]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 15
+[2021.04.28-20.03.07:909][410]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 14
+[2021.04.28-20.03.07:909][410]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2021.04.28-20.03.08:428][410]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 12
+[2021.04.28-20.03.08:428][410]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2021.04.28-20.03.08:428][410]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2021.04.28-20.03.08:433][410]TextureStreamingBuild: Display: Compiling optional shaders took 2.776 seconds.
+[2021.04.28-20.03.13:462][410]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.04.28-20.03.13:462][410]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.04.28-20.03.13:462][410]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2021.04.28-20.03.13:560][410]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-20.03.13:560][410]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-20.03.36:920][843]LogSlate: Window 'Message' being destroyed
+[2021.04.28-20.03.36:925][843]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Geometry/Meshes/Cafeteria/Texturas/Madera/MaderaPuertaCafete.MaderaPuertaCafete
+(Selecting 'No' will cause all changes to be lost!)
+[2021.04.28-20.03.37:651][843]LogMaterial: Display: Missing cached shader map for material MaderaPuertaCafete, compiling. 
+[2021.04.28-20.03.37:725][843]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11
+[2021.04.28-20.03.37:725][843]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 10
+[2021.04.28-20.03.37:726][843]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 9
+[2021.04.28-20.03.37:748][843]LogMaterial: Display: Missing cached shader map for material MaderaPuertaCafete, compiling. 
+[2021.04.28-20.03.37:842][843]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2021.04.28-20.03.37:851][843]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.04.28-20.03.38:978][843]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 31
+[2021.04.28-20.03.38:978][843]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 30
+[2021.04.28-20.03.38:978][843]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 29
+[2021.04.28-20.03.38:978][843]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 28
+[2021.04.28-20.03.39:539][843]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 27
+[2021.04.28-20.03.39:539][843]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 26
+[2021.04.28-20.03.39:539][843]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 25
+[2021.04.28-20.03.40:100][843]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 24
+[2021.04.28-20.03.40:100][843]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 23
+[2021.04.28-20.03.40:100][843]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 22
+[2021.04.28-20.03.40:100][843]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 21
+[2021.04.28-20.03.40:366][843]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2021.04.28-20.03.40:366][843]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2021.04.28-20.03.40:368][843]TextureStreamingBuild: Display: Compiling optional shaders took 2.522 seconds.
+[2021.04.28-20.03.40:381][843]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2021.04.28-20.03.40:435][843]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-20.03.40:435][843]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-20.03.43:250][ 48]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2021.04.28-20.03.45:301][241]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2021.04.28-20.03.46:477][303]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.04.28-20.04.04:227][979]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Geometry/Meshes/Bullet.Bullet
+[2021.04.28-20.04.04:229][979]LogMaterial: Display: Missing cached shader map for material Bullet, compiling. 
+[2021.04.28-20.04.04:300][979]LogMaterial: Display: Missing cached shader map for material Bullet, compiling. 
+[2021.04.28-20.04.04:309][979]LogMaterial: Display: Missing cached shader map for material Bullet, compiling. 
+[2021.04.28-20.04.04:321][979]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2021.04.28-20.04.04:321][979]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2021.04.28-20.04.04:321][979]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2021.04.28-20.04.04:326][979]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2021.04.28-20.04.05:174][ 38]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 10
+[2021.04.28-20.04.05:530][ 69]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2021.04.28-20.04.06:205][133]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2021.04.28-20.04.06:966][197]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2021.04.28-20.04.07:163][217]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 6
+[2021.04.28-20.04.07:219][219]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2021.04.28-20.04.08:404][337]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2021.04.28-20.04.08:677][367]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2021.04.28-20.04.08:852][386]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2021.04.28-20.04.08:853][386]MaterialEditorStats: Base pass shader: 118 instructions
+[2021.04.28-20.04.08:853][386]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2021.04.28-20.04.08:853][386]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.04.28-20.04.08:853][386]MaterialEditorStats: Texture samplers: 2/16
+[2021.04.28-20.04.09:466][449]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.04.28-20.04.28:220][ 16]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Geometry/Meshes/Campana/Campana_Metal_Campana_Negro.Campana_Metal_Campana_Negro
+[2021.04.28-20.04.28:221][ 16]LogMaterial: Display: Missing cached shader map for material Campana_Metal_Campana_Negro, compiling. 
+[2021.04.28-20.04.28:297][ 16]LogMaterial: Display: Missing cached shader map for material Campana_Metal_Campana_Negro, compiling. 
+[2021.04.28-20.04.28:307][ 16]LogMaterial: Display: Missing cached shader map for material Campana_Metal_Campana_Negro, compiling. 
+[2021.04.28-20.04.28:321][ 16]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11
+[2021.04.28-20.04.28:321][ 16]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 10
+[2021.04.28-20.04.28:321][ 16]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 9
+[2021.04.28-20.04.28:326][ 16]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2021.04.28-20.04.28:330][ 16]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.04.28-20.04.28:334][ 16]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.04.28-20.04.29:725][125]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 20
+[2021.04.28-20.04.30:207][172]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 19
+[2021.04.28-20.04.30:288][180]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 18
+[2021.04.28-20.04.30:775][218]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 17
+[2021.04.28-20.04.31:962][334]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 16
+[2021.04.28-20.04.32:239][363]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 15
+[2021.04.28-20.04.32:531][394]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 14
+[2021.04.28-20.04.33:155][463]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2021.04.28-20.04.33:944][543]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 12
+[2021.04.28-20.04.33:969][545]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 11
+[2021.04.28-20.04.34:180][568]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 10
+[2021.04.28-20.04.34:211][569]MaterialEditorStats: Base pass shader: 126 instructions
+[2021.04.28-20.04.34:211][569]MaterialEditorStats: Base pass shader with Surface Lightmap: 153 instructions
+[2021.04.28-20.04.34:211][569]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 200 instructions
+[2021.04.28-20.04.34:211][569]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.04.28-20.04.34:211][569]MaterialEditorStats: Texture samplers: 4/16
+[2021.04.28-20.04.34:211][569]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.04.28-20.04.34:211][569]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.04.28-20.04.34:914][634]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2021.04.28-20.04.35:356][679]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 8
+[2021.04.28-20.04.35:421][684]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 7
+[2021.04.28-20.04.36:378][752]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 6
+[2021.04.28-20.04.36:621][771]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 5
+[2021.04.28-20.04.36:899][791]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2021.04.28-20.04.37:441][844]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2021.04.28-20.04.37:611][860]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2021.04.28-20.04.37:954][895]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.04.28-20.04.58:563][ 61]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Geometry/Meshes/Palacio/Marmol.Marmol
+[2021.04.28-20.04.58:565][ 61]LogMaterial: Display: Missing cached shader map for material Marmol, compiling. 
+[2021.04.28-20.04.58:646][ 61]LogMaterial: Display: Missing cached shader map for material Marmol, compiling. 
+[2021.04.28-20.04.58:656][ 61]LogMaterial: Display: Missing cached shader map for material Marmol, compiling. 
+[2021.04.28-20.04.58:674][ 61]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11
+[2021.04.28-20.04.58:674][ 61]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 10
+[2021.04.28-20.04.58:674][ 61]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 9
+[2021.04.28-20.04.58:679][ 61]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.04.28-20.04.58:684][ 61]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.04.28-20.04.58:688][ 61]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.04.28-20.04.58:692][ 61]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2021.04.28-20.05.00:571][234]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 24
+[2021.04.28-20.05.00:808][251]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 23
+[2021.04.28-20.05.00:885][259]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 22
+[2021.04.28-20.05.01:753][339]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 21
+[2021.04.28-20.05.03:088][465]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 20
+[2021.04.28-20.05.03:449][499]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 19
+[2021.04.28-20.05.04:440][594]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 18
+[2021.04.28-20.05.04:550][605]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 17
+[2021.04.28-20.05.05:672][710]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 16
+[2021.04.28-20.05.06:029][750]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2021.04.28-20.05.06:753][778]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 14
+[2021.04.28-20.05.06:773][779]MaterialEditorStats: Base pass shader: 129 instructions
+[2021.04.28-20.05.06:773][779]MaterialEditorStats: Base pass shader with Surface Lightmap: 156 instructions
+[2021.04.28-20.05.06:773][779]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 203 instructions
+[2021.04.28-20.05.06:773][779]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.04.28-20.05.06:773][779]MaterialEditorStats: Texture samplers: 5/16
+[2021.04.28-20.05.06:773][779]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.04.28-20.05.06:773][779]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.04.28-20.05.07:399][840]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 13
+[2021.04.28-20.05.07:943][889]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 12
+[2021.04.28-20.05.08:017][897]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11
+[2021.04.28-20.05.08:354][930]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 10
+[2021.04.28-20.05.08:976][985]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 9
+[2021.04.28-20.05.09:186][  4]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2021.04.28-20.05.09:537][ 38]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2021.04.28-20.05.10:101][ 91]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2021.04.28-20.05.10:390][119]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2021.04.28-20.05.10:682][147]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2021.04.28-20.05.11:280][203]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2021.04.28-20.05.11:352][211]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.04.28-20.05.11:727][243]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.04.28-20.05.18:584][634]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Geometry/Meshes/Paredes/Pared_Morena.Pared_Morena
+[2021.04.28-20.05.18:586][634]LogMaterial: Display: Missing cached shader map for material Pared_Morena, compiling. 
+[2021.04.28-20.05.18:666][634]LogMaterial: Display: Missing cached shader map for material Pared_Morena, compiling. 
+[2021.04.28-20.05.18:676][634]LogMaterial: Display: Missing cached shader map for material Pared_Morena, compiling. 
+[2021.04.28-20.05.18:689][634]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11
+[2021.04.28-20.05.18:689][634]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 10
+[2021.04.28-20.05.18:689][634]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 9
+[2021.04.28-20.05.18:694][634]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2021.04.28-20.05.18:698][634]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.04.28-20.05.18:703][634]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.04.28-20.05.18:707][634]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.04.28-20.05.18:712][634]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2021.04.28-20.05.20:041][723]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 28
+[2021.04.28-20.05.20:373][754]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 27
+[2021.04.28-20.05.20:455][762]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 26
+[2021.04.28-20.05.21:131][821]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 25
+[2021.04.28-20.05.22:433][918]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 24
+[2021.04.28-20.05.22:581][933]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 23
+[2021.04.28-20.05.23:094][974]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 22
+[2021.04.28-20.05.23:474][ 11]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 21
+[2021.04.28-20.05.24:338][ 94]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 20
+[2021.04.28-20.05.24:560][117]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 19
+[2021.04.28-20.05.25:155][180]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 18
+[2021.04.28-20.05.25:174][181]MaterialEditorStats: Base pass shader: 132 instructions
+[2021.04.28-20.05.25:174][181]MaterialEditorStats: Base pass shader with Surface Lightmap: 159 instructions
+[2021.04.28-20.05.25:174][181]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2021.04.28-20.05.25:174][181]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.04.28-20.05.25:174][181]MaterialEditorStats: Texture samplers: 6/16
+[2021.04.28-20.05.25:174][181]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2021.04.28-20.05.25:174][181]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.04.28-20.05.25:478][212]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 17
+[2021.04.28-20.05.25:867][252]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 16
+[2021.04.28-20.05.26:629][332]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2021.04.28-20.05.26:731][343]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 14
+[2021.04.28-20.05.27:100][380]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 13
+[2021.04.28-20.05.27:863][451]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 12
+[2021.04.28-20.05.28:062][467]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 11
+[2021.04.28-20.05.28:356][492]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 10
+[2021.04.28-20.05.28:959][535]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2021.04.28-20.05.29:545][564]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 8
+[2021.04.28-20.05.29:586][566]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2021.04.28-20.05.29:859][582]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 6
+[2021.04.28-20.05.30:622][608]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 5
+[2021.04.28-20.05.30:622][608]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2021.04.28-20.05.30:910][613]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2021.04.28-20.05.32:248][621]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2021.04.28-20.05.32:248][621]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2021.04.28-20.05.46:300][954]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.04.28-20.05.53:602][683]SourceControl: fatal: /Script: '/Script' is outside repository at 'E:/Unreal Projects/SpaceWar'
+[2021.04.28-20.09.16:539][423]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2021.04.28-20.09.17:339][423]LogSavePackage: Moving '../../../../../Unreal Projects/SpaceWar/Saved/ThirdPersonExampleMapF85B6B704CC7EE049ADA7DA556CA0230.tmp' to '../../../../../Unreal Projects/SpaceWar/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.04.28-20.09.19:239][423]LogSavePackage: Moving '../../../../../Unreal Projects/SpaceWar/Saved/ThirdPersonExampleMap_BuiltDataF279D1EE41478D80CD509D8649C65969.tmp' to '../../../../../Unreal Projects/SpaceWar/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.04.28-20.09.19:260][423]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.28-20.09.19:260][423]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.04.28-20.09.19:260][423]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.04.28-20.09.20:346][484]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.28-20.09.20:354][484]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.28-20.09.20:354][484]PIE: New page: PIE session: ThirdPersonExampleMap (Apr 28, 2021, 10:09:20 AM)
+[2021.04.28-20.09.20:354][484]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.04.28-20.09.20:564][484]LogPlayLevel: PIE: StaticDuplicateObject took: (0.210554s)
+[2021.04.28-20.09.20:566][484]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.04.28-20.09.20:567][484]LogPlayLevel: PIE: World Init took: (0.002699s)
+[2021.04.28-20.09.20:568][484]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.213753s)
+[2021.04.28-20.09.20:585][484]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2021.04.28-20.09.20:585][484]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.04.28-20.09.20:585][484]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.28-20.09.20:585][484]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.28-20.09.20:585][484]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.28-20.09.20:586][484]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.28-20.09.20:586][484]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.28-20.09.20:586][484]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.28-20.09.20:586][484]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.28-20.09.20:586][484]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.28-20.09.20:586][484]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.28-20.09.20:586][484]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.28-20.09.20:590][484]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.28-20.09.20:590][484]LogAudioMixer: Display: 1: FrontRight
+[2021.04.28-20.09.20:603][484]LogAudioMixer: Display: Using Audio Device Altavoces (High Definition Audio Device)
+[2021.04.28-20.09.20:604][484]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.28-20.09.20:604][484]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.28-20.09.20:604][484]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.28-20.09.20:605][484]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.28-20.09.20:605][484]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.28-20.09.20:605][484]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.28-20.09.20:632][484]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.28-20.09.20:632][484]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.28-20.09.20:632][484]LogInit: FAudioDevice initialized.
+[2021.04.28-20.09.20:632][484]LogAudio: Display: Audio Device (ID: 6) registered with world 'ThirdPersonExampleMap'.
+[2021.04.28-20.09.20:644][484]LogLoad: Game class is 'GameModeBase'
+[2021.04.28-20.09.20:693][484]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.04.28-15.09.20
+[2021.04.28-20.09.20:694][484]LogWorld: Bringing up level for play took: 0.049007
+[2021.04.28-20.09.20:694][484]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2021.04.28-20.09.20:699][484]PIE: Server logged in
+[2021.04.28-20.09.20:700][484]PIE: Play in editor total start time 0.347 seconds.
+[2021.04.28-20.09.33:790][215]LogBlueprintUserMessages: [Weapon_BP_C_0] Reload, you have no ammo
+[2021.04.28-20.09.33:905][221]LogBlueprintUserMessages: [Weapon_BP_C_0] Reload, you have no ammo
+[2021.04.28-20.09.34:016][227]LogBlueprintUserMessages: [Weapon_BP_C_0] Reload, you have no ammo
+[2021.04.28-20.09.34:128][233]LogBlueprintUserMessages: [Weapon_BP_C_0] Reload, you have no ammo
+[2021.04.28-20.09.34:241][239]LogBlueprintUserMessages: [Weapon_BP_C_0] Reload, you have no ammo
+[2021.04.28-20.09.34:351][245]LogBlueprintUserMessages: [Weapon_BP_C_0] Reload, you have no ammo
+[2021.04.28-20.09.34:404][248]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Reloading
+[2021.04.28-20.09.35:404][301]LogBlueprintUserMessages: [Weapon_BP_C_0] Reloaded
+[2021.04.28-20.09.37:060][390]LogBlueprintUserMessages: [EnemieXD2_5] Daño en Cuerpo
+[2021.04.28-20.09.38:778][485]LogBlueprintUserMessages: [EnemieXD5] Daño en Cuerpo
+[2021.04.28-20.09.39:251][511]LogBlueprintUserMessages: [Weapon_BP_C_0] Reload, you have no ammo
+[2021.04.28-20.09.39:360][517]LogBlueprintUserMessages: [Weapon_BP_C_0] Reload, you have no ammo
+[2021.04.28-20.09.39:469][523]LogBlueprintUserMessages: [Weapon_BP_C_0] Reload, you have no ammo
+[2021.04.28-20.09.39:575][529]LogBlueprintUserMessages: [Weapon_BP_C_0] Reload, you have no ammo
+[2021.04.28-20.09.39:686][535]LogBlueprintUserMessages: [Weapon_BP_C_0] Reload, you have no ammo
+[2021.04.28-20.09.39:792][541]LogBlueprintUserMessages: [Weapon_BP_C_0] Reload, you have no ammo
+[2021.04.28-20.09.39:900][547]LogBlueprintUserMessages: [Weapon_BP_C_0] Reload, you have no ammo
+[2021.04.28-20.09.39:917][548]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Reloading
+[2021.04.28-20.09.40:913][602]LogBlueprintUserMessages: [Weapon_BP_C_0] Reloaded
+[2021.04.28-20.09.44:816][801]LogBlueprintUserMessages: [EnemieXD2_5] Daño en Cuerpo
+[2021.04.28-20.09.44:932][807]LogBlueprintUserMessages: [Weapon_BP_C_0] Reload, you have no ammo
+[2021.04.28-20.09.45:049][813]LogBlueprintUserMessages: [Weapon_BP_C_0] Reload, you have no ammo
+[2021.04.28-20.09.45:165][819]LogBlueprintUserMessages: [Weapon_BP_C_0] Reload, you have no ammo
+[2021.04.28-20.09.45:280][825]LogBlueprintUserMessages: [Weapon_BP_C_0] Reload, you have no ammo
+[2021.04.28-20.09.45:397][831]LogBlueprintUserMessages: [Weapon_BP_C_0] Reload, you have no ammo
+[2021.04.28-20.09.45:510][837]LogBlueprintUserMessages: [Weapon_BP_C_0] Reload, you have no ammo
+[2021.04.28-20.09.45:769][851]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Reloading
+[2021.04.28-20.09.46:757][906]LogBlueprintUserMessages: [Weapon_BP_C_0] Reloaded
+[2021.04.28-20.09.48:950][ 21]LogBlueprintUserMessages: [EnemieXD2_5] Daño en Cuerpo
+[2021.04.28-20.09.49:434][ 46]LogBlueprintUserMessages: [EnemieXD_2] Daño en Cuerpo
+[2021.04.28-20.09.49:549][ 52]LogBlueprintUserMessages: [EnemieXD_2] Daño en Cuerpo
+[2021.04.28-20.09.50:338][ 93]LogBlueprintUserMessages: [EnemieXD3] Daño en Cuerpo
+[2021.04.28-20.09.50:794][117]LogBlueprintUserMessages: [EnemieXD4] Daño en Cuerpo
+[2021.04.28-20.09.51:382][148]LogBlueprintUserMessages: [EnemieXD2_5] Daño en Cuerpo
+[2021.04.28-20.09.51:595][159]LogBlueprintUserMessages: [Weapon_BP_C_0] Reload, you have no ammo
+[2021.04.28-20.09.51:708][165]LogBlueprintUserMessages: [Weapon_BP_C_0] Reload, you have no ammo
+[2021.04.28-20.09.51:823][171]LogBlueprintUserMessages: [Weapon_BP_C_0] Reload, you have no ammo
+[2021.04.28-20.09.51:842][172]LogBlueprintUserMessages: [EnemieXD2_5] Daño en Cuerpo
+[2021.04.28-20.09.51:937][177]LogBlueprintUserMessages: [Weapon_BP_C_0] Reload, you have no ammo
+[2021.04.28-20.09.52:051][183]LogBlueprintUserMessages: [Weapon_BP_C_0] Reload, you have no ammo
+[2021.04.28-20.09.52:164][189]LogBlueprintUserMessages: [Weapon_BP_C_0] Reload, you have no ammo
+[2021.04.28-20.09.52:273][195]LogBlueprintUserMessages: [EnemieXD3] Daño en Cuerpo
+[2021.04.28-20.09.52:975][234]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Reloading
+[2021.04.28-20.09.53:978][289]LogBlueprintUserMessages: [Weapon_BP_C_0] Reloaded
+[2021.04.28-20.09.56:745][447]LogBlueprintUserMessages: [EnemieXD3] Daño en Cuerpo
+[2021.04.28-20.09.56:849][453]LogBlueprintUserMessages: [EnemieXD3] Daño en Cuerpo
+[2021.04.28-20.09.57:161][471]LogBlueprintUserMessages: [EnemieXD3] Daño en Cuerpo
+[2021.04.28-20.09.57:247][476]LogBlueprintUserMessages: [EnemieXD3] Enemie has been slayed
+[2021.04.28-20.09.57:247][476]LogBlueprintUserMessages: [EnemieXD3] Daño en Cuerpo
+[2021.04.28-20.10.02:893][805]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Reloading
+[2021.04.28-20.10.03:488][841]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Reloading
+[2021.04.28-20.10.03:888][865]LogBlueprintUserMessages: [Weapon_BP_C_0] Reloaded
+[2021.04.28-20.10.21:658][993]LogBlueprintUserMessages: [EnemieXD4] Daño en Cuerpo
+[2021.04.28-20.10.25:665][228]LogBlueprintUserMessages: [Weapon_BP_C_0] Reload, you have no ammo
+[2021.04.28-20.10.25:884][241]LogBlueprintUserMessages: [Weapon_BP_C_0] Reload, you have no ammo
+[2021.04.28-20.10.26:131][256]LogBlueprintUserMessages: [Weapon_BP_C_0] Reload, you have no ammo
+[2021.04.28-20.10.26:409][273]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Reloading
+[2021.04.28-20.10.27:397][332]LogBlueprintUserMessages: [Weapon_BP_C_0] Reloaded
+[2021.04.28-20.10.30:085][485]LogBlueprintUserMessages: [EnemieXD2_5] Enemy Has Been Slayed
+[2021.04.28-20.10.30:085][485]LogBlueprintUserMessages: [EnemieXD2_5] Daño en Cabeza
+[2021.04.28-20.10.34:301][751]LogBlueprintUserMessages: [Weapon_BP_C_0] Reload, you have no ammo
+[2021.04.28-20.10.34:526][765]LogBlueprintUserMessages: [Weapon_BP_C_0] Reload, you have no ammo
+[2021.04.28-20.10.34:731][778]LogBlueprintUserMessages: [Weapon_BP_C_0] Reload, you have no ammo
+[2021.04.28-20.10.35:059][799]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Reloading
+[2021.04.28-20.10.36:052][861]LogBlueprintUserMessages: [Weapon_BP_C_0] Reloaded
+[2021.04.28-20.10.43:393][314]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Reloading
+[2021.04.28-20.10.43:562][325]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 'Tas recibiendo daño Weiii
+[2021.04.28-20.10.43:580][326]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 'Tas recibiendo daño Weiii
+[2021.04.28-20.10.44:385][375]LogBlueprintUserMessages: [Weapon_BP_C_0] Reloaded
+[2021.04.28-20.10.45:912][475]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 'Tas recibiendo daño Weiii
+[2021.04.28-20.10.46:626][523]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 'Tas recibiendo daño Weiii
+[2021.04.28-20.10.46:945][537]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 'Tas recibiendo daño Weiii
+[2021.04.28-20.10.47:419][566]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 'Tas recibiendo daño Weiii
+[2021.04.28-20.10.49:838][725]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 'Tas recibiendo daño Weiii
+[2021.04.28-20.10.50:268][752]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 'Tas recibiendo daño Weiii
+[2021.04.28-20.10.51:388][821]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 'Tas recibiendo daño Weiii
+[2021.04.28-20.10.52:580][895]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 'Tas recibiendo daño Weiii
+[2021.04.28-20.10.53:451][946]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 'Tas recibiendo daño Weiii
+[2021.04.28-20.10.53:877][971]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 'Tas recibiendo daño Weiii
+[2021.04.28-20.10.54:592][ 12]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 'Tas recibiendo daño Weiii
+[2021.04.28-20.10.55:046][ 38]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 'Tas recibiendo daño Weiii
+[2021.04.28-20.10.57:419][163]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 'Tas recibiendo daño Weiii
+[2021.04.28-20.10.57:943][192]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 'Tas recibiendo daño Weiii
+[2021.04.28-20.11.45:267][967]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 'Tas recibiendo daño Weiii
+[2021.04.28-20.11.45:606][987]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 'Tas recibiendo daño Weiii
+[2021.04.28-20.11.54:959][521]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Reloading
+[2021.04.28-20.11.55:954][575]LogBlueprintUserMessages: [Weapon_BP_C_0] Reloaded
+[2021.04.28-20.11.58:352][701]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Reloading
+[2021.04.28-20.11.59:340][756]LogBlueprintUserMessages: [Weapon_BP_C_0] Reloaded
+[2021.04.28-20.12.00:689][833]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 'Tas recibiendo daño Weiii
+[2021.04.28-20.12.00:964][849]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 'Tas recibiendo daño Weiii
+[2021.04.28-20.12.00:964][849]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Ya te moriste >:(
+[2021.04.28-20.12.10:696][380]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Reloading
+[2021.04.28-20.12.11:686][431]LogBlueprintUserMessages: [Weapon_BP_C_0] Reloaded
+[2021.04.28-20.12.49:772][559]LogBlueprintUserMessages: [Weapon_BP_C_0] Reload, you have no ammo
+[2021.04.28-20.12.49:960][569]LogBlueprintUserMessages: [Weapon_BP_C_0] Reload, you have no ammo
+[2021.04.28-20.12.50:167][580]LogBlueprintUserMessages: [Weapon_BP_C_0] Reload, you have no ammo
+[2021.04.28-20.12.50:354][590]LogBlueprintUserMessages: [Weapon_BP_C_0] Reload, you have no ammo
+[2021.04.28-20.12.50:542][600]LogBlueprintUserMessages: [Weapon_BP_C_0] Reload, you have no ammo
+[2021.04.28-20.12.51:011][625]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Reloading
+[2021.04.28-20.12.51:975][674]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Reloading
+[2021.04.28-20.12.51:996][675]LogBlueprintUserMessages: [Weapon_BP_C_0] Reloaded
+[2021.04.28-20.13.29:768][771]LogBlueprintUserMessages: [Weapon_BP_C_0] Reload, you have no ammo
+[2021.04.28-20.13.29:973][781]LogBlueprintUserMessages: [Weapon_BP_C_0] Reload, you have no ammo
+[2021.04.28-20.13.30:171][791]LogBlueprintUserMessages: [Weapon_BP_C_0] Reload, you have no ammo
+[2021.04.28-20.13.30:407][803]LogBlueprintUserMessages: [Weapon_BP_C_0] Reload, you have no ammo
+[2021.04.28-20.13.30:710][819]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Reloading
+[2021.04.28-20.13.31:702][871]LogBlueprintUserMessages: [Weapon_BP_C_0] Reloaded
+[2021.04.28-20.13.33:571][969]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-20.13.33:571][969]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.04.28-20.13.33:573][969]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-20.13.33:580][969]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-20.13.33:599][969]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.28-20.13.33:605][969]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-20.13.33:616][969]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-20.13.33:623][969]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.28-20.13.33:624][969]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.28-20.13.33:670][969]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2021.04.28-20.13.33:696][970]LogPlayLevel: Display: Destroying online subsystem :Context_24
