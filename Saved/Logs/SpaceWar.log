@@ -2255,3 +2255,448 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.04.28-05.21.58:874][467]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
 [2021.04.28-05.21.58:874][467]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
 [2021.04.28-05.21.58:874][467]LogContentValidation: Display: Validating Material /Game/Geometry/Meshes/Plataforma/Texturas/Plataforma.Plataforma
+[2021.04.28-05.23.46:024][274]Cmd: SELECT NONE
+[2021.04.28-05.24.35:286][209]Cmd: SELECT NONE
+[2021.04.28-05.24.37:124][309]Cmd: SELECT NONE
+[2021.04.28-05.30.42:708][451]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/Luis/Desktop/EV01/PlataformaToUnreal/PlataformaPilar.fbx)
+[2021.04.28-05.30.42:719][451]LogFbx: Loading FBX Scene from C:/Users/Luis/Desktop/EV01/PlataformaToUnreal/PlataformaPilar.fbx
+[2021.04.28-05.30.42:725][451]LogFbx: FBX Scene Loaded Succesfully
+[2021.04.28-05.30.44:164][451]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.04.28-05.30.44:187][451]LogFbx: Display: Triangulating static mesh Cube.002
+[2021.04.28-05.30.44:189][451]LogStaticMesh: Building static mesh PlataformaPilar...
+[2021.04.28-05.30.44:194][451]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/Plataforma/PlataformaPilar.PlataformaPilar
+[2021.04.28-05.30.44:205][451]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.04.28-05.30.46:023][545]LogSlate: Window 'Message Log' being destroyed
+[2021.04.28-05.30.46:053][545]LogSlate: Window 'Message Log' being destroyed
+[2021.04.28-05.30.50:079][748]LogActorFactory: Actor Factory created PlataformaPilar
+[2021.04.28-05.30.51:060][785]LogActorFactory: Actor Factory created PlataformaPilar
+[2021.04.28-05.31.51:286][718]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PlataformaPilar3)
+[2021.04.28-05.31.55:336][952]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PlataformaPilar2)
+[2021.04.28-05.31.58:780][144]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PlataformaPilar4)
+[2021.04.28-05.32.30:780][904]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.28-05.32.30:787][904]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.28-05.32.30:787][904]PIE: New page: PIE session: ThirdPersonExampleMap (Apr 27, 2021, 7:32:30 PM)
+[2021.04.28-05.32.30:787][904]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.04.28-05.32.31:002][904]LogPlayLevel: PIE: StaticDuplicateObject took: (0.214798s)
+[2021.04.28-05.32.31:004][904]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.04.28-05.32.31:004][904]LogPlayLevel: PIE: World Init took: (0.002032s)
+[2021.04.28-05.32.31:005][904]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.217178s)
+[2021.04.28-05.32.31:034][904]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2021.04.28-05.32.31:038][904]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2021.04.28-05.32.31:039][904]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.28-05.32.31:039][904]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.28-05.32.31:039][904]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.28-05.32.31:039][904]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.28-05.32.31:039][904]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.28-05.32.31:039][904]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.28-05.32.31:039][904]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.28-05.32.31:039][904]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.28-05.32.31:039][904]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.28-05.32.31:039][904]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.28-05.32.31:044][904]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.28-05.32.31:044][904]LogAudioMixer: Display: 1: FrontRight
+[2021.04.28-05.32.31:057][904]LogAudioMixer: Display: Using Audio Device Altavoces (High Definition Audio Device)
+[2021.04.28-05.32.31:057][904]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.28-05.32.31:057][904]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.28-05.32.31:057][904]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.28-05.32.31:058][904]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.28-05.32.31:058][904]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.28-05.32.31:058][904]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.28-05.32.31:081][904]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.28-05.32.31:081][904]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.28-05.32.31:081][904]LogInit: FAudioDevice initialized.
+[2021.04.28-05.32.31:081][904]LogAudio: Display: Audio Device (ID: 9) registered with world 'ThirdPersonExampleMap'.
+[2021.04.28-05.32.31:093][904]LogLoad: Game class is 'GameModeBase'
+[2021.04.28-05.32.31:137][904]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.04.28-00.32.31
+[2021.04.28-05.32.31:138][904]LogWorld: Bringing up level for play took: 0.044688
+[2021.04.28-05.32.31:138][904]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2021.04.28-05.32.31:144][904]PIE: Server logged in
+[2021.04.28-05.32.31:145][904]PIE: Play in editor total start time 0.358 seconds.
+[2021.04.28-05.32.32:508][976]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 'Tas recibiendo daño Weiii
+[2021.04.28-05.32.32:819][995]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 'Tas recibiendo daño Weiii
+[2021.04.28-05.33.04:803][ 56]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-05.33.04:803][ 56]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.04.28-05.33.04:805][ 56]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-05.33.04:812][ 56]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-05.33.04:831][ 56]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.28-05.33.04:857][ 56]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-05.33.04:885][ 56]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-05.33.04:888][ 56]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.28-05.33.04:889][ 56]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.28-05.33.04:924][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2021.04.28-05.33.04:964][ 57]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2021.04.28-05.33.09:420][296]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PlataformaPilar)
+[2021.04.28-05.33.21:035][790]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PlataformaPilar2)
+[2021.04.28-05.33.26:441][ 29]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PlataformaPilar3)
+[2021.04.28-05.33.32:265][311]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PlataformaPilar4)
+[2021.04.28-05.33.39:321][645]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PlataformaPilar7)
+[2021.04.28-05.33.40:349][700]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.04.28-05.33.46:918][967]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PlataformaPilar6)
+[2021.04.28-05.33.52:284][176]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PlataformaPilar5)
+[2021.04.28-05.34.00:298][545]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PlataformaPilar6)
+[2021.04.28-05.34.02:059][632]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PlataformaPilar7)
+[2021.04.28-05.34.06:794][811]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PlataformaPilar8)
+[2021.04.28-05.34.32:434][ 78]Cmd: TRANSACTION UNDO
+[2021.04.28-05.34.32:434][ 78]LogEditorTransaction: Undo Clicking on Actors
+[2021.04.28-05.34.32:462][ 78]LogMaterial: Display: Missing cached shader map for material Plataforma, compiling. 
+[2021.04.28-05.34.32:472][ 78]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2021.04.28-05.34.32:472][ 78]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2021.04.28-05.34.32:472][ 78]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2021.04.28-05.34.33:710][134]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2021.04.28-05.34.34:094][155]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2021.04.28-05.34.34:701][189]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2021.04.28-05.34.35:112][212]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2021.04.28-05.34.35:841][258]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2021.04.28-05.34.36:079][273]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.04.28-05.34.37:158][334]MaterialEditorStats: Base pass shader: 126 instructions
+[2021.04.28-05.34.37:158][334]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 200 instructions
+[2021.04.28-05.34.37:158][334]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.04.28-05.34.37:158][334]MaterialEditorStats: Texture samplers: 7/16
+[2021.04.28-05.34.37:158][334]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(5)
+[2021.04.28-05.34.37:158][334]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.04.28-05.34.57:779][467]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BarricadaInBetRight2)
+[2021.04.28-05.35.03:656][783]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PlataformaPilar20)
+[2021.04.28-05.35.04:121][808]Cmd: DELETE
+[2021.04.28-05.35.04:121][808]Cmd: ACTOR DELETE
+[2021.04.28-05.35.04:167][808]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.28-05.35.04:194][808]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2021.04.28-05.35.04:198][808]LogEditorActor: Deleted 1 Actors (0.077 secs)
+[2021.04.28-05.35.07:229][977]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PlataformaPilar19)
+[2021.04.28-05.35.08:416][ 38]Cmd: DELETE
+[2021.04.28-05.35.08:416][ 38]Cmd: ACTOR DELETE
+[2021.04.28-05.35.08:463][ 38]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.28-05.35.08:489][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2021.04.28-05.35.08:490][ 38]LogEditorActor: Deleted 1 Actors (0.074 secs)
+[2021.04.28-05.35.11:348][193]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PlataformaPilar18)
+[2021.04.28-05.35.14:119][355]Cmd: TRANSACTION UNDO
+[2021.04.28-05.35.14:119][355]LogEditorTransaction: Undo Move Actors
+[2021.04.28-05.35.14:150][355]LogMaterial: Display: Missing cached shader map for material Plataforma, compiling. 
+[2021.04.28-05.35.14:166][355]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2021.04.28-05.35.14:166][355]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2021.04.28-05.35.14:166][355]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2021.04.28-05.35.14:844][381]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BarricadaFront17)
+[2021.04.28-05.35.15:436][415]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2021.04.28-05.35.15:788][438]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BarricadaFront17)
+[2021.04.28-05.35.15:799][438]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2021.04.28-05.35.15:855][439]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2021.04.28-05.35.16:521][484]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PlataformaPilar18)
+[2021.04.28-05.35.16:927][505]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2021.04.28-05.35.17:013][510]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2021.04.28-05.35.17:439][537]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.04.28-05.35.18:292][585]MaterialEditorStats: Base pass shader: 126 instructions
+[2021.04.28-05.35.18:292][585]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 200 instructions
+[2021.04.28-05.35.18:292][585]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.04.28-05.35.18:292][585]MaterialEditorStats: Texture samplers: 7/16
+[2021.04.28-05.35.18:292][585]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(5)
+[2021.04.28-05.35.18:292][585]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.04.28-05.35.18:794][615]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PlataformaPilar17)
+[2021.04.28-05.35.21:822][789]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.04.28-05.35.29:550][196]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2021.04.28-05.35.30:341][196]LogSavePackage: Moving '../../../../../Unreal Projects/SpaceWar/Saved/ThirdPersonExampleMapD6A1038B42265360BFDAD3BC1038B9FE.tmp' to '../../../../../Unreal Projects/SpaceWar/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.04.28-05.35.32:150][196]LogSavePackage: Moving '../../../../../Unreal Projects/SpaceWar/Saved/ThirdPersonExampleMap_BuiltDataA34FB6B64294B06C96DF639E923C5565.tmp' to '../../../../../Unreal Projects/SpaceWar/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.04.28-05.35.32:173][196]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.28-05.35.32:173][196]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.04.28-05.35.32:173][196]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.04.28-05.35.39:307][964]BlueprintLog: New page: Compile ThirdPersonExampleMap
+[2021.04.28-05.35.39:405][964]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2021.04.28-05.35.40:080][ 33]BlueprintLog: New page: Compile ThirdPersonExampleMap
+[2021.04.28-05.35.40:179][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2021.04.28-05.35.40:580][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2021.04.28-05.35.41:363][ 57]LogSavePackage: Moving '../../../../../Unreal Projects/SpaceWar/Saved/ThirdPersonExampleMap7F2ACF7A47A126F5F88290AF5E8174A9.tmp' to '../../../../../Unreal Projects/SpaceWar/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.04.28-05.35.41:378][ 57]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.825
+[2021.04.28-05.35.41:423][ 57]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2021.04.28-05.35.41:423][ 57]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.04.28-05.35.42:687][140]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.28-05.35.42:694][140]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.28-05.35.42:695][140]PIE: New page: PIE session: ThirdPersonExampleMap (Apr 27, 2021, 7:35:42 PM)
+[2021.04.28-05.35.42:695][140]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.04.28-05.35.42:906][140]LogPlayLevel: PIE: StaticDuplicateObject took: (0.211063s)
+[2021.04.28-05.35.42:907][140]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.04.28-05.35.42:908][140]LogPlayLevel: PIE: World Init took: (0.001768s)
+[2021.04.28-05.35.42:908][140]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.213129s)
+[2021.04.28-05.35.42:935][140]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2021.04.28-05.35.42:936][140]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2021.04.28-05.35.42:936][140]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.28-05.35.42:936][140]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.28-05.35.42:936][140]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.28-05.35.42:936][140]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.28-05.35.42:936][140]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.28-05.35.42:936][140]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.28-05.35.42:936][140]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.28-05.35.42:936][140]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.28-05.35.42:937][140]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.28-05.35.42:937][140]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.28-05.35.42:941][140]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.28-05.35.42:941][140]LogAudioMixer: Display: 1: FrontRight
+[2021.04.28-05.35.42:955][140]LogAudioMixer: Display: Using Audio Device Altavoces (High Definition Audio Device)
+[2021.04.28-05.35.42:955][140]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.28-05.35.42:955][140]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.28-05.35.42:955][140]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.28-05.35.42:956][140]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.28-05.35.42:956][140]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.28-05.35.42:956][140]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.28-05.35.42:981][140]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.28-05.35.42:981][140]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.28-05.35.42:981][140]LogInit: FAudioDevice initialized.
+[2021.04.28-05.35.42:981][140]LogAudio: Display: Audio Device (ID: 10) registered with world 'ThirdPersonExampleMap'.
+[2021.04.28-05.35.42:992][140]LogLoad: Game class is 'GameModeBase'
+[2021.04.28-05.35.43:036][140]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.04.28-00.35.43
+[2021.04.28-05.35.43:037][140]LogWorld: Bringing up level for play took: 0.044635
+[2021.04.28-05.35.43:037][140]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2021.04.28-05.35.43:042][140]PIE: Server logged in
+[2021.04.28-05.35.43:043][140]PIE: Play in editor total start time 0.35 seconds.
+[2021.04.28-05.35.44:208][199]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Reloading
+[2021.04.28-05.35.45:198][254]LogBlueprintUserMessages: [Weapon_BP_C_0] Reloaded
+[2021.04.28-05.36.16:372][107]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Reloading
+[2021.04.28-05.36.17:369][173]LogBlueprintUserMessages: [Weapon_BP_C_0] Reloaded
+[2021.04.28-05.36.27:120][737]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-05.36.27:120][737]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.04.28-05.36.27:121][737]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-05.36.27:127][737]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-05.36.27:141][737]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.28-05.36.27:155][737]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-05.36.27:181][737]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-05.36.27:186][737]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.28-05.36.27:187][737]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.28-05.36.27:223][737]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2021.04.28-05.36.27:298][738]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2021.04.28-05.39.19:306][988]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/Luis/Desktop/EV01/PlataformaToUnreal/PlataformaEscalon.fbx)
+[2021.04.28-05.39.19:317][988]LogFbx: Loading FBX Scene from C:/Users/Luis/Desktop/EV01/PlataformaToUnreal/PlataformaEscalon.fbx
+[2021.04.28-05.39.19:325][988]LogFbx: FBX Scene Loaded Succesfully
+[2021.04.28-05.39.20:651][988]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.04.28-05.39.20:668][988]LogImageWrapper: Warning: PNG Warning: iCCP: CRC error
+[2021.04.28-05.39.20:668][988]LogImageWrapper: Warning: PNG Warning: iCCP: CRC error
+[2021.04.28-05.39.20:695][988]LogTexture: Display: Building textures: Roughness (AutoDXT, 1024X1024)
+[2021.04.28-05.39.21:526][988]LogImageWrapper: Warning: PNG Warning: iCCP: CRC error
+[2021.04.28-05.39.21:527][988]LogImageWrapper: Warning: PNG Warning: iCCP: CRC error
+[2021.04.28-05.39.21:554][988]LogTexture: Display: Building textures: Metallic (AutoDXT, 1024X1024)
+[2021.04.28-05.39.22:761][988]LogFbx: Display: Triangulating static mesh Cube.004
+[2021.04.28-05.39.22:762][988]LogStaticMesh: Building static mesh PlataformaEscalon...
+[2021.04.28-05.39.22:767][988]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/Plataforma/PlataformaEscalon.PlataformaEscalon
+[2021.04.28-05.39.22:774][988]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.04.28-05.39.24:541][ 62]LogSlate: Window 'Message Log' being destroyed
+[2021.04.28-05.39.24:574][ 62]LogSlate: Window 'Message Log' being destroyed
+[2021.04.28-05.39.26:399][125]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2021.04.28-05.39.27:929][125]LogSlate: Window 'Delete Assets' being destroyed
+[2021.04.28-05.39.28:037][125]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2021.04.28-05.39.28:923][158]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.04.28-05.39.29:844][158]LogSlate: Window 'Delete Assets' being destroyed
+[2021.04.28-05.39.29:950][158]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2021.04.28-05.39.34:856][365]LogActorFactory: Actor Factory created PlataformaEscalon
+[2021.04.28-05.39.36:949][447]LogActorFactory: Actor Factory created PlataformaEscalon
+[2021.04.28-05.39.46:920][949]Cmd: DELETE
+[2021.04.28-05.39.46:920][949]Cmd: ACTOR DELETE
+[2021.04.28-05.39.46:966][949]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.28-05.39.46:994][949]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2021.04.28-05.39.46:998][949]LogEditorActor: Deleted 1 Actors (0.078 secs)
+[2021.04.28-05.40.16:277][219]LogEditorFactories: Performing atomic reimport of [C:/Users/Luis/Desktop/EV01/PlataformaToUnreal/PlataformaEscalon.fbx]
+[2021.04.28-05.40.16:316][219]LogFbx: Loading FBX Scene from C:/Users/Luis/Desktop/EV01/PlataformaToUnreal/PlataformaEscalon.fbx
+[2021.04.28-05.40.16:324][219]LogFbx: FBX Scene Loaded Succesfully
+[2021.04.28-05.40.16:397][219]LogFbx: Display: Triangulating static mesh Cube.004
+[2021.04.28-05.40.16:430][219]LogStaticMesh: Building static mesh PlataformaEscalon...
+[2021.04.28-05.40.16:434][219]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/Plataforma/PlataformaEscalon.PlataformaEscalon
+[2021.04.28-05.40.16:444][219]LogEditorFactories: -- imported successfully
+[2021.04.28-05.40.16:447][219]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.04.28-05.40.18:942][309]LogActorFactory: Actor Factory created PlataformaEscalon
+[2021.04.28-05.40.20:305][366]LogActorFactory: Actor Factory created PlataformaEscalon
+[2021.04.28-05.40.32:276][939]Cmd: DELETE
+[2021.04.28-05.40.32:277][939]Cmd: ACTOR DELETE
+[2021.04.28-05.40.32:324][939]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.28-05.40.32:352][939]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2021.04.28-05.40.32:355][939]LogEditorActor: Deleted 1 Actors (0.078 secs)
+[2021.04.28-05.41.05:535][201]LogEditorFactories: Performing atomic reimport of [C:/Users/Luis/Desktop/EV01/PlataformaToUnreal/PlataformaEscalon.fbx]
+[2021.04.28-05.41.05:567][201]LogFbx: Loading FBX Scene from C:/Users/Luis/Desktop/EV01/PlataformaToUnreal/PlataformaEscalon.fbx
+[2021.04.28-05.41.05:576][201]LogFbx: FBX Scene Loaded Succesfully
+[2021.04.28-05.41.05:601][201]LogFbx: Display: Triangulating static mesh Cube.004
+[2021.04.28-05.41.05:618][201]LogStaticMesh: Building static mesh PlataformaEscalon...
+[2021.04.28-05.41.05:622][201]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/Plataforma/PlataformaEscalon.PlataformaEscalon
+[2021.04.28-05.41.05:632][201]LogEditorFactories: -- imported successfully
+[2021.04.28-05.41.05:635][201]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.04.28-05.41.06:622][222]LogActorFactory: Actor Factory created PlataformaEscalon
+[2021.04.28-05.41.07:900][286]LogActorFactory: Actor Factory created PlataformaEscalon
+[2021.04.28-05.41.15:152][747]Cmd: TRANSACTION UNDO
+[2021.04.28-05.41.15:152][747]LogEditorTransaction: Undo Rotate Actors
+[2021.04.28-05.41.15:180][747]LogMaterial: Display: Missing cached shader map for material Plataforma, compiling. 
+[2021.04.28-05.41.15:194][747]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2021.04.28-05.41.15:194][747]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2021.04.28-05.41.15:194][747]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2021.04.28-05.41.17:100][818]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2021.04.28-05.41.17:467][833]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2021.04.28-05.41.18:290][869]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2021.04.28-05.41.18:911][896]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2021.04.28-05.41.19:425][917]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.04.28-05.41.19:473][918]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.04.28-05.41.20:629][952]MaterialEditorStats: Base pass shader: 126 instructions
+[2021.04.28-05.41.20:630][952]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 200 instructions
+[2021.04.28-05.41.20:630][952]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.04.28-05.41.20:630][952]MaterialEditorStats: Texture samplers: 7/16
+[2021.04.28-05.41.20:630][952]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(5)
+[2021.04.28-05.41.20:630][952]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.04.28-05.41.52:359][811]Cmd: DELETE
+[2021.04.28-05.41.52:359][811]Cmd: ACTOR DELETE
+[2021.04.28-05.41.52:415][811]LogEditorActor: Deleted Actor: Brush
+[2021.04.28-05.41.52:441][811]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2021.04.28-05.41.52:629][811]LogEditorActor: Deleted 1 Actors (0.270 secs)
+[2021.04.28-05.41.53:461][856]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PlataformaEscalon)
+[2021.04.28-05.42.20:752][595]Cmd: TRANSACTION UNDO
+[2021.04.28-05.42.20:752][595]LogEditorTransaction: Undo Move Actors
+[2021.04.28-05.42.20:779][595]LogMaterial: Display: Missing cached shader map for material Plataforma, compiling. 
+[2021.04.28-05.42.20:790][595]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2021.04.28-05.42.20:790][595]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2021.04.28-05.42.20:790][595]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2021.04.28-05.42.22:362][682]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2021.04.28-05.42.23:223][734]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2021.04.28-05.42.23:544][753]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2021.04.28-05.42.24:354][807]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2021.04.28-05.42.24:843][840]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.04.28-05.42.25:516][887]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.04.28-05.42.26:818][972]MaterialEditorStats: Base pass shader: 126 instructions
+[2021.04.28-05.42.26:818][972]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 200 instructions
+[2021.04.28-05.42.26:818][972]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.04.28-05.42.26:818][972]MaterialEditorStats: Texture samplers: 7/16
+[2021.04.28-05.42.26:818][972]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(5)
+[2021.04.28-05.42.26:818][972]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.04.28-05.42.48:210][365]Cmd: TRANSACTION UNDO
+[2021.04.28-05.42.48:210][365]LogEditorTransaction: Undo Move Actors
+[2021.04.28-05.42.48:235][365]LogMaterial: Display: Missing cached shader map for material Plataforma, compiling. 
+[2021.04.28-05.42.48:290][366]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2021.04.28-05.42.48:290][366]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2021.04.28-05.42.48:290][366]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2021.04.28-05.42.50:585][503]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2021.04.28-05.42.51:245][547]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2021.04.28-05.42.51:313][549]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2021.04.28-05.42.52:427][622]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2021.04.28-05.42.52:545][630]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2021.04.28-05.42.53:304][677]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.04.28-05.42.54:502][757]MaterialEditorStats: Base pass shader: 126 instructions
+[2021.04.28-05.42.54:502][757]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 200 instructions
+[2021.04.28-05.42.54:502][757]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.04.28-05.42.54:502][757]MaterialEditorStats: Texture samplers: 7/16
+[2021.04.28-05.42.54:502][757]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(5)
+[2021.04.28-05.42.54:502][757]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.04.28-05.43.03:753][359]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PlataformaEscalon2)
+[2021.04.28-05.43.05:593][470]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PlataformaEscalon)
+[2021.04.28-05.43.15:634][897]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PlataformaEscalon2)
+[2021.04.28-05.43.20:505][ 86]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PlataformaEscalon3)
+[2021.04.28-05.43.27:123][333]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PlataformaEscalon4)
+[2021.04.28-05.43.31:436][501]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PlataformaEscalon5)
+[2021.04.28-05.43.35:973][682]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PlataformaEscalon6)
+[2021.04.28-05.43.41:189][898]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PlataformaEscalon7)
+[2021.04.28-05.43.46:264][114]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PlataformaEscalon8)
+[2021.04.28-05.45.49:521][ 63]Cmd: SELECT NONE
+[2021.04.28-05.45.51:391][176]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.28-05.45.51:399][176]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.28-05.45.51:399][176]PIE: New page: PIE session: ThirdPersonExampleMap (Apr 27, 2021, 7:45:51 PM)
+[2021.04.28-05.45.51:429][176]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.04.28-05.45.51:651][176]LogPlayLevel: PIE: StaticDuplicateObject took: (0.221695s)
+[2021.04.28-05.45.51:653][176]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.04.28-05.45.51:654][176]LogPlayLevel: PIE: World Init took: (0.002445s)
+[2021.04.28-05.45.51:654][176]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.224680s)
+[2021.04.28-05.45.51:687][176]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2021.04.28-05.45.51:694][176]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2021.04.28-05.45.51:694][176]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.28-05.45.51:694][176]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.28-05.45.51:694][176]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.28-05.45.51:694][176]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.28-05.45.51:694][176]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.28-05.45.51:694][176]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.28-05.45.51:694][176]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.28-05.45.51:694][176]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.28-05.45.51:694][176]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.28-05.45.51:694][176]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.28-05.45.51:698][176]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.28-05.45.51:698][176]LogAudioMixer: Display: 1: FrontRight
+[2021.04.28-05.45.51:713][176]LogAudioMixer: Display: Using Audio Device Altavoces (High Definition Audio Device)
+[2021.04.28-05.45.51:713][176]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.28-05.45.51:713][176]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.28-05.45.51:713][176]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.28-05.45.51:714][176]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.28-05.45.51:714][176]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.28-05.45.51:714][176]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.28-05.45.51:741][176]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.28-05.45.51:741][176]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.28-05.45.51:741][176]LogInit: FAudioDevice initialized.
+[2021.04.28-05.45.51:741][176]LogAudio: Display: Audio Device (ID: 11) registered with world 'ThirdPersonExampleMap'.
+[2021.04.28-05.45.51:748][176]LogLoad: Game class is 'GameModeBase'
+[2021.04.28-05.45.51:798][176]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.04.28-00.45.51
+[2021.04.28-05.45.51:800][176]LogWorld: Bringing up level for play took: 0.050643
+[2021.04.28-05.45.51:800][176]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2021.04.28-05.45.51:807][176]PIE: Server logged in
+[2021.04.28-05.45.51:807][176]PIE: Play in editor total start time 0.41 seconds.
+[2021.04.28-05.45.54:705][335]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Reloading
+[2021.04.28-05.45.55:698][395]LogBlueprintUserMessages: [Weapon_BP_C_0] Reloaded
+[2021.04.28-05.46.00:240][649]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-05.46.00:240][649]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.04.28-05.46.00:242][649]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.04.28-05.46.00:250][649]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-05.46.00:261][649]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.28-05.46.00:268][649]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.28-05.46.00:297][649]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.28-05.46.00:298][649]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.28-05.46.00:300][649]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.28-05.46.00:328][649]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.28-05.46.00:347][649]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2021.04.28-05.46.00:403][650]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2021.04.28-05.46.07:525][  8]Cmd: DELETE
+[2021.04.28-05.46.07:525][  8]Cmd: ACTOR DELETE
+[2021.04.28-05.46.07:580][  8]LogEditorActor: Deleted Actor: Brush
+[2021.04.28-05.46.07:609][  8]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2021.04.28-05.46.07:783][  8]LogEditorActor: Deleted 1 Actors (0.258 secs)
+[2021.04.28-05.46.16:036][487]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PlataformaEscalon21)
+[2021.04.28-05.46.27:546][150]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PlataformaEscalon5)
+[2021.04.28-05.46.28:420][200]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PlataformaEscalon)
+[2021.04.28-05.47.44:163][640]Cmd: SELECT NONE
+[2021.04.28-05.48.25:582][652]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.04.28-05.48.57:910][192]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2021.04.28-05.48.58:706][192]LogSavePackage: Moving '../../../../../Unreal Projects/SpaceWar/Saved/ThirdPersonExampleMap_Auto4A72179434E74E87B4A02228AF2CA6BA2.tmp' to '../../../../../Unreal Projects/SpaceWar/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto4.umap'
+[2021.04.28-05.48.58:710][192]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.831
+[2021.04.28-05.48.58:710][192]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.831
+[2021.04.28-05.48.58:710][192]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Meshes/Plataforma/PlataformaChica] ([1] browsable assets)...
+[2021.04.28-05.48.58:744][192]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Geometry/Meshes/Plataforma/PlataformaChica.PlataformaChica]
+[2021.04.28-05.48.58:744][192]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Meshes/Plataforma/PlataformaChica]
+[2021.04.28-05.48.58:752][192]LogSavePackage: Moving '../../../../../Unreal Projects/SpaceWar/Saved/PlataformaChica_Auto4AC251FAE45BD09BC61ACABBC3896412B.tmp' to '../../../../../Unreal Projects/SpaceWar/Saved/Autosaves/Game/Geometry/Meshes/Plataforma/PlataformaChica_Auto4.uasset'
+[2021.04.28-05.48.58:753][192]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Meshes/Plataforma/PlataformaChicaBarras] ([1] browsable assets)...
+[2021.04.28-05.48.58:779][192]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Geometry/Meshes/Plataforma/PlataformaChicaBarras.PlataformaChicaBarras]
+[2021.04.28-05.48.58:779][192]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Meshes/Plataforma/PlataformaChicaBarras]
+[2021.04.28-05.48.58:795][192]LogSavePackage: Moving '../../../../../Unreal Projects/SpaceWar/Saved/PlataformaChicaBarras_Auto47E1A06D34F7B507D745CEAA37C8563DB.tmp' to '../../../../../Unreal Projects/SpaceWar/Saved/Autosaves/Game/Geometry/Meshes/Plataforma/PlataformaChicaBarras_Auto4.uasset'
+[2021.04.28-05.48.58:796][192]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Meshes/Plataforma/PlataformaPilar] ([1] browsable assets)...
+[2021.04.28-05.48.58:821][192]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Geometry/Meshes/Plataforma/PlataformaPilar.PlataformaPilar]
+[2021.04.28-05.48.58:821][192]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Meshes/Plataforma/PlataformaPilar]
+[2021.04.28-05.48.58:829][192]LogSavePackage: Moving '../../../../../Unreal Projects/SpaceWar/Saved/PlataformaPilar_Auto4A8C11DDE41841C5E9C2948AD41FFDA10.tmp' to '../../../../../Unreal Projects/SpaceWar/Saved/Autosaves/Game/Geometry/Meshes/Plataforma/PlataformaPilar_Auto4.uasset'
+[2021.04.28-05.48.58:830][192]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Meshes/Plataforma/PlataformaEscalon] ([1] browsable assets)...
+[2021.04.28-05.48.58:854][192]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Geometry/Meshes/Plataforma/PlataformaEscalon.PlataformaEscalon]
+[2021.04.28-05.48.58:854][192]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Meshes/Plataforma/PlataformaEscalon]
+[2021.04.28-05.48.58:861][192]LogSavePackage: Moving '../../../../../Unreal Projects/SpaceWar/Saved/PlataformaEscalon_Auto4589E4A8B4DE368844C48D18E55AC95BF.tmp' to '../../../../../Unreal Projects/SpaceWar/Saved/Autosaves/Game/Geometry/Meshes/Plataforma/PlataformaEscalon_Auto4.uasset'
+[2021.04.28-05.48.58:862][192]LogFileHelpers: Auto-saving content packages took 0.152
+[2021.04.28-05.49.11:503][449]SourceControl: fatal: E:/UnrealEngine/UE_4.26/Engine/Content: 'E:/UnrealEngine/UE_4.26/Engine/Content' is outside repository at 'E:/Unreal Projects/SpaceWar'
+[2021.04.28-05.49.11:503][449]SourceControl: fatal: E:/UnrealEngine/UE_4.26/Engine/Plugins/2D/Paper2D/Content: 'E:/UnrealEngine/UE_4.26/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'E:/Unreal Projects/SpaceWar'
+[2021.04.28-05.49.11:503][449]SourceControl: fatal: E:/UnrealEngine/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content: 'E:/UnrealEngine/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'E:/Unreal Projects/SpaceWar'
+[2021.04.28-05.49.11:503][449]SourceControl: fatal: E:/UnrealEngine/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content: 'E:/UnrealEngine/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'E:/Unreal Projects/SpaceWar'
+[2021.04.28-05.49.11:503][449]SourceControl: fatal: E:/UnrealEngine/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'E:/UnrealEngine/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'E:/Unreal Projects/SpaceWar'
+[2021.04.28-05.49.11:503][449]SourceControl: fatal: E:/UnrealEngine/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content: 'E:/UnrealEngine/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'E:/Unreal Projects/SpaceWar'
+[2021.04.28-05.49.11:503][449]SourceControl: fatal: E:/UnrealEngine/UE_4.26/Engine/Plugins/FX/Niagara/Content: 'E:/UnrealEngine/UE_4.26/Engine/Plugins/FX/Niagara/Content' is outside repository at 'E:/Unreal Projects/SpaceWar'
+[2021.04.28-05.49.11:503][449]SourceControl: fatal: E:/UnrealEngine/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'E:/UnrealEngine/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'E:/Unreal Projects/SpaceWar'
+[2021.04.28-05.49.11:503][449]SourceControl: fatal: E:/UnrealEngine/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content: 'E:/UnrealEngine/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'E:/Unreal Projects/SpaceWar'
+[2021.04.28-05.49.11:503][449]SourceControl: fatal: E:/UnrealEngine/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'E:/UnrealEngine/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'E:/Unreal Projects/SpaceWar'
+[2021.04.28-05.49.11:503][449]SourceControl: fatal: E:/UnrealEngine/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content: 'E:/UnrealEngine/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'E:/Unreal Projects/SpaceWar'
+[2021.04.28-05.49.11:503][449]SourceControl: fatal: E:/UnrealEngine/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'E:/UnrealEngine/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'E:/Unreal Projects/SpaceWar'
+[2021.04.28-05.49.11:503][449]SourceControl: fatal: E:/UnrealEngine/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content: 'E:/UnrealEngine/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'E:/Unreal Projects/SpaceWar'
+[2021.04.28-05.49.11:503][449]SourceControl: fatal: E:/UnrealEngine/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content: 'E:/UnrealEngine/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'E:/Unreal Projects/SpaceWar'
+[2021.04.28-05.49.11:503][449]SourceControl: fatal: E:/UnrealEngine/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'E:/UnrealEngine/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'E:/Unreal Projects/SpaceWar'
+[2021.04.28-05.49.11:503][449]SourceControl: fatal: E:/UnrealEngine/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content: 'E:/UnrealEngine/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'E:/Unreal Projects/SpaceWar'
+[2021.04.28-05.49.11:503][449]SourceControl: fatal: E:/UnrealEngine/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'E:/UnrealEngine/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'E:/Unreal Projects/SpaceWar'
+[2021.04.28-05.49.11:503][449]SourceControl: fatal: E:/UnrealEngine/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content: 'E:/UnrealEngine/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'E:/Unreal Projects/SpaceWar'
+[2021.04.28-05.49.11:503][449]SourceControl: fatal: E:/UnrealEngine/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content: 'E:/UnrealEngine/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'E:/Unreal Projects/SpaceWar'
+[2021.04.28-05.49.11:503][449]SourceControl: fatal: E:/UnrealEngine/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'E:/UnrealEngine/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'E:/Unreal Projects/SpaceWar'
+[2021.04.28-05.49.11:503][449]SourceControl: fatal: E:/UnrealEngine/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'E:/UnrealEngine/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'E:/Unreal Projects/SpaceWar'
+[2021.04.28-05.51.50:303][449]LogSlate: Window 'Save Content' being destroyed
+[2021.04.28-05.51.50:474][449]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2021.04.28-05.51.51:268][449]LogSavePackage: Moving '../../../../../Unreal Projects/SpaceWar/Saved/ThirdPersonExampleMapB760CC844D7A9F1448B999BE4EBD5C27.tmp' to '../../../../../Unreal Projects/SpaceWar/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.04.28-05.51.51:291][449]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.845
+[2021.04.28-05.52.03:096][449]LogSlate: Window 'Submit Files' being destroyed
+[2021.04.28-05.52.11:173][449]LogSourceControl: commit successful: [main 8958bae] Update de Plataformas
+[2021.04.28-05.52.11:258][449]SourceControl: [main 8958bae] Update de Plataformas
+[2021.04.28-05.52.11:258][449]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
+[2021.04.28-05.52.11:267][449]SourceControl: Commited [main 8958bae] Update de Plataformas.
+[2021.04.28-05.52.11:313][450]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2021.04.28-05.52.11:314][450]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
