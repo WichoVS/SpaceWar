@@ -2827,3 +2827,44 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.04.28-06.20.10:751][549]SourceControl: fatal: E:/UnrealEngine/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'E:/UnrealEngine/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'E:/Unreal Projects/SpaceWar'
 [2021.04.28-06.20.10:751][549]SourceControl: fatal: E:/UnrealEngine/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'E:/UnrealEngine/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'E:/Unreal Projects/SpaceWar'
 [2021.04.28-06.20.11:030][549]EditorErrors: Warning: No assets to check in!
+[2021.04.28-06.20.40:703][995]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2021.04.28-06.20.41:074][995]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.04.28-06.20.41:836][995]LogSavePackage: Moving '../../../../../Unreal Projects/SpaceWar/Saved/ThirdPersonExampleMap5AED938E45DA0D5C34ACF48B6DDAA1E4.tmp' to '../../../../../Unreal Projects/SpaceWar/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.04.28-06.20.41:854][995]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.805
+[2021.04.28-06.20.41:855][995]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/Plataforma/Texturas/AO" FILE="../../../../../Unreal Projects/SpaceWar/Content/Geometry/Meshes/Plataforma/Texturas/AO.uasset" SILENT=true
+[2021.04.28-06.20.41:962][995]LogSavePackage: Moving '../../../../../Unreal Projects/SpaceWar/Saved/AO2A864AB04A3D2997354529927045F10C.tmp' to '../../../../../Unreal Projects/SpaceWar/Content/Geometry/Meshes/Plataforma/Texturas/AO.uasset'
+[2021.04.28-06.20.42:212][995]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/Plataforma/Texturas/Color" FILE="../../../../../Unreal Projects/SpaceWar/Content/Geometry/Meshes/Plataforma/Texturas/Color.uasset" SILENT=true
+[2021.04.28-06.20.42:326][995]LogSavePackage: Moving '../../../../../Unreal Projects/SpaceWar/Saved/Color277D1F9F4BA06CA5EDD3AE9E2FE2A347.tmp' to '../../../../../Unreal Projects/SpaceWar/Content/Geometry/Meshes/Plataforma/Texturas/Color.uasset'
+[2021.04.28-06.20.42:604][995]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/Plataforma/Texturas/Metallic" FILE="../../../../../Unreal Projects/SpaceWar/Content/Geometry/Meshes/Plataforma/Texturas/Metallic.uasset" SILENT=true
+[2021.04.28-06.20.42:695][995]LogSavePackage: Moving '../../../../../Unreal Projects/SpaceWar/Saved/Metallic8F4D8E9049FD4C7C0DEEDB8D8D97BE0F.tmp' to '../../../../../Unreal Projects/SpaceWar/Content/Geometry/Meshes/Plataforma/Texturas/Metallic.uasset'
+[2021.04.28-06.20.42:979][995]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/Plataforma/Texturas/Normal" FILE="../../../../../Unreal Projects/SpaceWar/Content/Geometry/Meshes/Plataforma/Texturas/Normal.uasset" SILENT=true
+[2021.04.28-06.20.43:104][995]LogSavePackage: Moving '../../../../../Unreal Projects/SpaceWar/Saved/NormalD59801B940C7B5F617E734AD5E7361B2.tmp' to '../../../../../Unreal Projects/SpaceWar/Content/Geometry/Meshes/Plataforma/Texturas/Normal.uasset'
+[2021.04.28-06.20.43:416][995]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/Plataforma/Texturas/Roughness" FILE="../../../../../Unreal Projects/SpaceWar/Content/Geometry/Meshes/Plataforma/Texturas/Roughness.uasset" SILENT=true
+[2021.04.28-06.20.43:494][995]LogSavePackage: Moving '../../../../../Unreal Projects/SpaceWar/Saved/RoughnessC5E5138D46D24DD50C0245895C808B26.tmp' to '../../../../../Unreal Projects/SpaceWar/Content/Geometry/Meshes/Plataforma/Texturas/Roughness.uasset'
+[2021.04.28-06.20.43:755][995]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/Plataforma/PlataformaBarras" FILE="../../../../../Unreal Projects/SpaceWar/Content/Geometry/Meshes/Plataforma/PlataformaBarras.uasset" SILENT=true
+[2021.04.28-06.20.43:759][995]LogSavePackage: Moving '../../../../../Unreal Projects/SpaceWar/Saved/PlataformaBarras63CD687E42F8D1DFB75FFDB5A80E54F1.tmp' to '../../../../../Unreal Projects/SpaceWar/Content/Geometry/Meshes/Plataforma/PlataformaBarras.uasset'
+[2021.04.28-06.20.43:982][995]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/Plataforma/Plataforma" FILE="../../../../../Unreal Projects/SpaceWar/Content/Geometry/Meshes/Plataforma/Plataforma.uasset" SILENT=true
+[2021.04.28-06.20.43:985][995]LogSavePackage: Moving '../../../../../Unreal Projects/SpaceWar/Saved/Plataforma7A79DC5F466B3A1B1EC383B5115C5F47.tmp' to '../../../../../Unreal Projects/SpaceWar/Content/Geometry/Meshes/Plataforma/Plataforma.uasset'
+[2021.04.28-06.20.44:177][995]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/Plataforma/PlataformaChica" FILE="../../../../../Unreal Projects/SpaceWar/Content/Geometry/Meshes/Plataforma/PlataformaChica.uasset" SILENT=true
+[2021.04.28-06.20.44:180][995]LogSavePackage: Moving '../../../../../Unreal Projects/SpaceWar/Saved/PlataformaChicaDE22847948B4DF6C21DDAA9C64CEC891.tmp' to '../../../../../Unreal Projects/SpaceWar/Content/Geometry/Meshes/Plataforma/PlataformaChica.uasset'
+[2021.04.28-06.20.44:359][995]LogSavePackage: Moving '../../../../../Unreal Projects/SpaceWar/Saved/PlataformaChicaBarras8F44106F435D020564CBA2B5BB33767F.tmp' to '../../../../../Unreal Projects/SpaceWar/Content/Geometry/Meshes/Plataforma/PlataformaChicaBarras.uasset'
+[2021.04.28-06.20.44:538][995]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/Plataforma/PlataformaPilar" FILE="../../../../../Unreal Projects/SpaceWar/Content/Geometry/Meshes/Plataforma/PlataformaPilar.uasset" SILENT=true
+[2021.04.28-06.20.44:541][995]LogSavePackage: Moving '../../../../../Unreal Projects/SpaceWar/Saved/PlataformaPilar4732AD724185DC4FC586A38AB9D28622.tmp' to '../../../../../Unreal Projects/SpaceWar/Content/Geometry/Meshes/Plataforma/PlataformaPilar.uasset'
+[2021.04.28-06.20.44:721][995]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/Plataforma/PlataformaEscalon" FILE="../../../../../Unreal Projects/SpaceWar/Content/Geometry/Meshes/Plataforma/PlataformaEscalon.uasset" SILENT=true
+[2021.04.28-06.20.44:724][995]LogSavePackage: Moving '../../../../../Unreal Projects/SpaceWar/Saved/PlataformaEscalon7D0B5E29450B88138AD14189598C416D.tmp' to '../../../../../Unreal Projects/SpaceWar/Content/Geometry/Meshes/Plataforma/PlataformaEscalon.uasset'
+[2021.04.28-06.20.44:917][995]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/Cafeteria/TestSize" FILE="../../../../../Unreal Projects/SpaceWar/Content/Geometry/Meshes/Cafeteria/TestSize.uasset" SILENT=true
+[2021.04.28-06.20.44:922][995]LogSavePackage: Moving '../../../../../Unreal Projects/SpaceWar/Saved/TestSizeF04692584F3FCF4F22D67E96CBC0509C.tmp' to '../../../../../Unreal Projects/SpaceWar/Content/Geometry/Meshes/Cafeteria/TestSize.uasset'
+[2021.04.28-06.20.45:119][995]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.28-06.20.45:119][995]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Meshes/Plataforma/Plataforma.Plataforma
+[2021.04.28-06.20.45:119][995]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Meshes/Plataforma/PlataformaBarras.PlataformaBarras
+[2021.04.28-06.20.45:119][995]LogContentValidation: Display: Validating Texture2D /Game/Geometry/Meshes/Plataforma/Texturas/Roughness.Roughness
+[2021.04.28-06.20.45:119][995]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.04.28-06.20.45:119][995]LogContentValidation: Display: Validating Texture2D /Game/Geometry/Meshes/Plataforma/Texturas/Normal.Normal
+[2021.04.28-06.20.45:119][995]LogContentValidation: Display: Validating Texture2D /Game/Geometry/Meshes/Plataforma/Texturas/Metallic.Metallic
+[2021.04.28-06.20.45:119][995]LogContentValidation: Display: Validating Texture2D /Game/Geometry/Meshes/Plataforma/Texturas/Color.Color
+[2021.04.28-06.20.45:119][995]LogContentValidation: Display: Validating Texture2D /Game/Geometry/Meshes/Plataforma/Texturas/AO.AO
+[2021.04.28-06.20.45:119][995]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Meshes/Plataforma/PlataformaChicaBarras.PlataformaChicaBarras
+[2021.04.28-06.20.45:119][995]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Meshes/Plataforma/PlataformaChica.PlataformaChica
+[2021.04.28-06.20.45:119][995]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Meshes/Plataforma/PlataformaPilar.PlataformaPilar
+[2021.04.28-06.20.45:119][995]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Meshes/Plataforma/PlataformaEscalon.PlataformaEscalon
+[2021.04.28-06.20.45:119][995]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Meshes/Cafeteria/TestSize.TestSize
